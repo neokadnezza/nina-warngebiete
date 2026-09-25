@@ -311,19 +311,19 @@
     },
     {
       "type": "Feature",
-      "id": "mow.DE-BW-RA-W025-20260925-001#1",
+      "id": "mow.DE-BW-RA-W025-20260925-002#1",
       "properties": {
-        "warnId": "mow.DE-BW-RA-W025-20260925-001",
+        "warnId": "mow.DE-BW-RA-W025-20260925-002",
         "strokeColor": "#FB8C00",
         "strokeOpacity": 1.0,
         "strokeWeight": 1,
         "fillColor": "#F2C811",
         "fillOpacity": 0.4,
         "zIndex": 20,
-        "FeatureID": "mow.DE-BW-RA-W025-20260925-001#1",
-        "WarnungID": "mow.DE-BW-RA-W025-20260925-001",
+        "FeatureID": "mow.DE-BW-RA-W025-20260925-002#1",
+        "WarnungID": "mow.DE-BW-RA-W025-20260925-002",
         "Version": 20,
-        "Titel": "Stromausfall großflächig - Kuppenheim",
+        "Titel": "Stromausfall großflächig - Kuppenheim und Muggensturm",
         "Quelle": "MoWaS",
         "QuellEndpunkt": "mowas",
         "Eventcode": "BBK-EVC-063",
@@ -332,7 +332,7 @@
         "Schweregrad": "Minor",
         "Dringlichkeit": "Immediate",
         "Meldungstyp": "Update",
-        "Beginn": "2026-09-25T17:23:27+02:00",
+        "Beginn": "2026-09-25T19:11:33+02:00",
         "Ablauf": null,
         "color": "#F2C811",
         "strokeWidth": 2
@@ -480,6 +480,140 @@
             [
               8.234,
               48.8405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-RA-W025-20260925-002#2",
+      "properties": {
+        "warnId": "mow.DE-BW-RA-W025-20260925-002",
+        "strokeColor": "#FB8C00",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-RA-W025-20260925-002#2",
+        "WarnungID": "mow.DE-BW-RA-W025-20260925-002",
+        "Version": 20,
+        "Titel": "Stromausfall großflächig - Kuppenheim und Muggensturm",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Update",
+        "Beginn": "2026-09-25T19:11:33+02:00",
+        "Ablauf": null,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.2347,
+                48.8624
+              ],
+              [
+                8.236,
+                48.8701
+              ],
+              [
+                8.2452,
+                48.8721
+              ],
+              [
+                8.2467,
+                48.8655
+              ],
+              [
+                8.2347,
+                48.8624
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                8.2511,
+                48.8657
+              ],
+              [
+                8.2663,
+                48.874
+              ],
+              [
+                8.2716,
+                48.8808
+              ],
+              [
+                8.2883,
+                48.8864
+              ],
+              [
+                8.3004,
+                48.8791
+              ],
+              [
+                8.3086,
+                48.8646
+              ],
+              [
+                8.3055,
+                48.8627
+              ],
+              [
+                8.2978,
+                48.8605
+              ],
+              [
+                8.3006,
+                48.8573
+              ],
+              [
+                8.2936,
+                48.8495
+              ],
+              [
+                8.285,
+                48.8477
+              ],
+              [
+                8.2828,
+                48.8466
+              ],
+              [
+                8.2781,
+                48.8495
+              ],
+              [
+                8.2739,
+                48.8472
+              ],
+              [
+                8.2695,
+                48.8522
+              ],
+              [
+                8.2658,
+                48.8566
+              ],
+              [
+                8.252,
+                48.8623
+              ],
+              [
+                8.2511,
+                48.8657
+              ]
             ]
           ]
         ]

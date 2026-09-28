@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-28T04:34:11Z",
-  "started_at_utc": "2026-09-28T04:34:11Z",
+  "generated_at_utc": "2026-09-28T07:34:37Z",
+  "started_at_utc": "2026-09-28T07:34:36Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -10,7 +10,7 @@
     "police"
   ],
   "source_counts": {
-    "MoWaS": 8,
+    "MoWaS": 10,
     "DWD": 0,
     "KATWARN": 0,
     "BIWAPP": 0,
@@ -18,8 +18,8 @@
     "Polizei": 0
   },
   "source_errors": {},
-  "overview_total": 8,
-  "active_total": 8,
+  "overview_total": 10,
+  "active_total": 9,
   "relevant_total": 1,
   "unclassified_total": 0,
   "geometry_requests_failed": 0,

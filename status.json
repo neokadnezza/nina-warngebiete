@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-30T14:35:15Z",
-  "started_at_utc": "2026-09-30T14:35:13Z",
+  "generated_at_utc": "2026-09-30T17:35:39Z",
+  "started_at_utc": "2026-09-30T17:35:39Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -19,7 +19,7 @@
   },
   "source_errors": {},
   "overview_total": 20,
-  "active_total": 16,
+  "active_total": 15,
   "relevant_total": 2,
   "unclassified_total": 0,
   "geometry_requests_failed": 0,
@@ -27,5 +27,5 @@
   "feature_count": 2,
   "sha256": "92df90f12fec17633801922213908ad781fb5e09455dbc09d49e1194066be5fc",
   "uploaded_to_github": true,
-  "github_changed": true
+  "github_changed": false
 }

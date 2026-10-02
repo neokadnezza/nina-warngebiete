@@ -6,7 +6,7 @@
       "id": "mow.DE-TH-G-W109-20260926-000#1",
       "properties": {
         "warnId": "mow.DE-TH-G-W109-20260926-000",
-        "strokeColor": "#FB8C00",
+        "strokeColor": "#F2C811",
         "strokeOpacity": 1.0,
         "strokeWeight": 1,
         "fillColor": "#F2C811",
@@ -26,6 +26,10 @@
         "Meldungstyp": "Update",
         "Beginn": "2026-09-26T13:08:00+02:00",
         "Ablauf": null,
+        "MinLongitude": 12.1564,
+        "MaxLongitude": 12.2053,
+        "MinLatitude": 50.6289,
+        "MaxLatitude": 50.66,
         "color": "#F2C811",
         "strokeWidth": 2
       },

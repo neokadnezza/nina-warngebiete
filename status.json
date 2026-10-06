@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-05T21:40:43Z",
-  "started_at_utc": "2026-10-05T21:40:42Z",
+  "generated_at_utc": "2026-10-06T00:40:53Z",
+  "started_at_utc": "2026-10-06T00:40:52Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -19,7 +19,7 @@
   },
   "source_errors": {},
   "overview_total": 11,
-  "active_total": 10,
+  "active_total": 11,
   "relevant_total": 2,
   "unclassified_total": 0,
   "geometry_requests_failed": 0,

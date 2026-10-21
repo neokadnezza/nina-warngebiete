@@ -1,4 +1,101 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mow.DE-NI-BS-SE129-20261021-157-000#1",
+      "properties": {
+        "warnId": "mow.DE-NI-BS-SE129-20261021-157-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-NI-BS-SE129-20261021-157-000#1",
+        "WarnungID": "mow.DE-NI-BS-SE129-20261021-157-000",
+        "Version": 21,
+        "Titel": "Stromausfall in Folge eines Feuerwehreinsatzes - Groß Ilsede",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-21T10:49:23+02:00",
+        "Ablauf": null,
+        "MinLongitude": 10.215,
+        "MaxLongitude": 10.2342,
+        "MinLatitude": 52.2609,
+        "MaxLatitude": 52.2763,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.215,
+              52.2639
+            ],
+            [
+              10.2188,
+              52.2685
+            ],
+            [
+              10.2175,
+              52.2738
+            ],
+            [
+              10.2159,
+              52.2763
+            ],
+            [
+              10.2225,
+              52.2762
+            ],
+            [
+              10.2227,
+              52.2753
+            ],
+            [
+              10.225,
+              52.2753
+            ],
+            [
+              10.2252,
+              52.2721
+            ],
+            [
+              10.2339,
+              52.2725
+            ],
+            [
+              10.2342,
+              52.2718
+            ],
+            [
+              10.2306,
+              52.266
+            ],
+            [
+              10.232,
+              52.2633
+            ],
+            [
+              10.2259,
+              52.2609
+            ],
+            [
+              10.215,
+              52.2639
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }

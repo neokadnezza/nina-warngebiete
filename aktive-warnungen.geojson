@@ -3,214 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792771080000.c5290a59-c273-4810-b3c7-ba57447b9b37.MUL#1",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792771080000.c5290a59-c273-4810-b3c7-ba57447b9b37.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792771080000.c5290a59-c273-4810-b3c7-ba57447b9b37.MUL#1",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792771080000.c5290a59-c273-4810-b3c7-ba57447b9b37.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANBÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-23T17:58:00+02:00",
-        "Ablauf": "2026-10-24T14:00:00+02:00",
-        "MinLongitude": 10.5738,
-        "MaxLongitude": 10.8997,
-        "MinLatitude": 51.7525,
-        "MaxLatitude": 51.8872,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.5738,
-              51.8108
-            ],
-            [
-              10.5873,
-              51.8352
-            ],
-            [
-              10.6086,
-              51.822
-            ],
-            [
-              10.6342,
-              51.8194
-            ],
-            [
-              10.6344,
-              51.8011
-            ],
-            [
-              10.6445,
-              51.7895
-            ],
-            [
-              10.648,
-              51.8035
-            ],
-            [
-              10.6625,
-              51.8133
-            ],
-            [
-              10.6564,
-              51.8243
-            ],
-            [
-              10.6771,
-              51.8226
-            ],
-            [
-              10.7169,
-              51.8439
-            ],
-            [
-              10.7442,
-              51.8358
-            ],
-            [
-              10.7579,
-              51.8498
-            ],
-            [
-              10.7532,
-              51.8715
-            ],
-            [
-              10.7589,
-              51.8665
-            ],
-            [
-              10.7742,
-              51.8787
-            ],
-            [
-              10.8139,
-              51.8872
-            ],
-            [
-              10.82,
-              51.8781
-            ],
-            [
-              10.8634,
-              51.8833
-            ],
-            [
-              10.8649,
-              51.8691
-            ],
-            [
-              10.8846,
-              51.8652
-            ],
-            [
-              10.8894,
-              51.8573
-            ],
-            [
-              10.8924,
-              51.8343
-            ],
-            [
-              10.8847,
-              51.8298
-            ],
-            [
-              10.8997,
-              51.8159
-            ],
-            [
-              10.8629,
-              51.8107
-            ],
-            [
-              10.8434,
-              51.7916
-            ],
-            [
-              10.8253,
-              51.7895
-            ],
-            [
-              10.8062,
-              51.7959
-            ],
-            [
-              10.7833,
-              51.7844
-            ],
-            [
-              10.7462,
-              51.7798
-            ],
-            [
-              10.7113,
-              51.765
-            ],
-            [
-              10.7054,
-              51.7713
-            ],
-            [
-              10.6864,
-              51.7731
-            ],
-            [
-              10.7023,
-              51.7525
-            ],
-            [
-              10.6785,
-              51.7581
-            ],
-            [
-              10.6644,
-              51.7538
-            ],
-            [
-              10.626,
-              51.7582
-            ],
-            [
-              10.5978,
-              51.7656
-            ],
-            [
-              10.5797,
-              51.7822
-            ],
-            [
-              10.586,
-              51.7876
-            ],
-            [
-              10.5738,
-              51.8108
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792835100000.a45f5264-0cb6-4aef-933d-d004ec1f8314.MUL#1",
       "properties": {
         "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792835100000.a45f5264-0cb6-4aef-933d-d004ec1f8314.MUL",
@@ -19268,6 +19060,2078 @@
             [
               12.6773,
               49.0323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#1",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#1",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.2765,
+        "MaxLongitude": 8.4913,
+        "MinLatitude": 54.7393,
+        "MaxLatitude": 55.0571,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.2765,
+              54.7527
+            ],
+            [
+              8.2797,
+              54.7962
+            ],
+            [
+              8.2872,
+              54.8837
+            ],
+            [
+              8.309,
+              54.9335
+            ],
+            [
+              8.3209,
+              54.9526
+            ],
+            [
+              8.3505,
+              54.9924
+            ],
+            [
+              8.3937,
+              55.0513
+            ],
+            [
+              8.4073,
+              55.0571
+            ],
+            [
+              8.4288,
+              55.0554
+            ],
+            [
+              8.4636,
+              55.0449
+            ],
+            [
+              8.3962,
+              55.0438
+            ],
+            [
+              8.4009,
+              55.0351
+            ],
+            [
+              8.4255,
+              55.0334
+            ],
+            [
+              8.4405,
+              55.0232
+            ],
+            [
+              8.4391,
+              55.016
+            ],
+            [
+              8.395,
+              55.0031
+            ],
+            [
+              8.3714,
+              54.9887
+            ],
+            [
+              8.3534,
+              54.9689
+            ],
+            [
+              8.363,
+              54.9436
+            ],
+            [
+              8.3622,
+              54.9286
+            ],
+            [
+              8.3731,
+              54.8968
+            ],
+            [
+              8.4268,
+              54.8781
+            ],
+            [
+              8.4913,
+              54.8768
+            ],
+            [
+              8.4547,
+              54.8567
+            ],
+            [
+              8.4128,
+              54.8456
+            ],
+            [
+              8.3742,
+              54.8595
+            ],
+            [
+              8.3628,
+              54.8748
+            ],
+            [
+              8.3399,
+              54.879
+            ],
+            [
+              8.3325,
+              54.8632
+            ],
+            [
+              8.3062,
+              54.8569
+            ],
+            [
+              8.2952,
+              54.8415
+            ],
+            [
+              8.2936,
+              54.7938
+            ],
+            [
+              8.301,
+              54.7744
+            ],
+            [
+              8.2935,
+              54.7393
+            ],
+            [
+              8.2765,
+              54.7527
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#2",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#2",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.7151,
+        "MaxLongitude": 8.7365,
+        "MinLatitude": 54.6285,
+        "MaxLatitude": 54.6441,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.7151,
+              54.6392
+            ],
+            [
+              8.7365,
+              54.6441
+            ],
+            [
+              8.736,
+              54.6327
+            ],
+            [
+              8.7159,
+              54.6285
+            ],
+            [
+              8.7151,
+              54.6392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#3",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#3",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.3967,
+        "MaxLongitude": 8.5975,
+        "MinLatitude": 54.6798,
+        "MaxLatitude": 54.7556,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3967,
+              54.7051
+            ],
+            [
+              8.4036,
+              54.7302
+            ],
+            [
+              8.4374,
+              54.7483
+            ],
+            [
+              8.5056,
+              54.752
+            ],
+            [
+              8.5384,
+              54.7556
+            ],
+            [
+              8.585,
+              54.745
+            ],
+            [
+              8.5836,
+              54.7286
+            ],
+            [
+              8.5975,
+              54.719
+            ],
+            [
+              8.5839,
+              54.7118
+            ],
+            [
+              8.5668,
+              54.6798
+            ],
+            [
+              8.5251,
+              54.6805
+            ],
+            [
+              8.4705,
+              54.6826
+            ],
+            [
+              8.4535,
+              54.6924
+            ],
+            [
+              8.446,
+              54.6925
+            ],
+            [
+              8.4252,
+              54.6949
+            ],
+            [
+              8.3967,
+              54.7051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#4",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#4",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.7891,
+        "MaxLongitude": 8.832,
+        "MinLatitude": 54.5426,
+        "MaxLatitude": 54.5542,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.7891,
+              54.5518
+            ],
+            [
+              8.813,
+              54.5542
+            ],
+            [
+              8.832,
+              54.5521
+            ],
+            [
+              8.8226,
+              54.5426
+            ],
+            [
+              8.7891,
+              54.5518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#5",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#5",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.2928,
+        "MaxLongitude": 8.4019,
+        "MinLatitude": 54.6097,
+        "MaxLatitude": 54.7116,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.2928,
+              54.6673
+            ],
+            [
+              8.3074,
+              54.6839
+            ],
+            [
+              8.3562,
+              54.7116
+            ],
+            [
+              8.3394,
+              54.6952
+            ],
+            [
+              8.3505,
+              54.6755
+            ],
+            [
+              8.3609,
+              54.65
+            ],
+            [
+              8.3823,
+              54.64
+            ],
+            [
+              8.3799,
+              54.6328
+            ],
+            [
+              8.4019,
+              54.6262
+            ],
+            [
+              8.3866,
+              54.6234
+            ],
+            [
+              8.401,
+              54.6181
+            ],
+            [
+              8.3823,
+              54.6097
+            ],
+            [
+              8.3578,
+              54.6112
+            ],
+            [
+              8.3365,
+              54.6272
+            ],
+            [
+              8.2928,
+              54.6673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#6",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#6",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.5988,
+        "MaxLongitude": 9.1017,
+        "MinLatitude": 54.2634,
+        "MaxLatitude": 54.9112,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5988,
+              54.3215
+            ],
+            [
+              8.5992,
+              54.3287
+            ],
+            [
+              8.6071,
+              54.3289
+            ],
+            [
+              8.6031,
+              54.3406
+            ],
+            [
+              8.6435,
+              54.3383
+            ],
+            [
+              8.6583,
+              54.3489
+            ],
+            [
+              8.6915,
+              54.3552
+            ],
+            [
+              8.6933,
+              54.3676
+            ],
+            [
+              8.6899,
+              54.3735
+            ],
+            [
+              8.6584,
+              54.3743
+            ],
+            [
+              8.6493,
+              54.381
+            ],
+            [
+              8.6725,
+              54.3995
+            ],
+            [
+              8.6994,
+              54.397
+            ],
+            [
+              8.8009,
+              54.4084
+            ],
+            [
+              8.8322,
+              54.409
+            ],
+            [
+              8.8523,
+              54.4033
+            ],
+            [
+              8.8769,
+              54.4074
+            ],
+            [
+              8.9123,
+              54.4171
+            ],
+            [
+              8.9312,
+              54.4313
+            ],
+            [
+              8.9498,
+              54.4387
+            ],
+            [
+              8.9558,
+              54.4509
+            ],
+            [
+              9.0039,
+              54.4628
+            ],
+            [
+              9.0156,
+              54.4752
+            ],
+            [
+              9.0028,
+              54.4795
+            ],
+            [
+              9.013,
+              54.4826
+            ],
+            [
+              9.01,
+              54.4976
+            ],
+            [
+              8.9917,
+              54.5189
+            ],
+            [
+              8.9878,
+              54.5248
+            ],
+            [
+              8.9459,
+              54.5121
+            ],
+            [
+              8.9484,
+              54.5004
+            ],
+            [
+              8.9144,
+              54.4705
+            ],
+            [
+              8.8904,
+              54.4592
+            ],
+            [
+              8.8436,
+              54.46
+            ],
+            [
+              8.8057,
+              54.4704
+            ],
+            [
+              8.817,
+              54.4864
+            ],
+            [
+              8.8055,
+              54.4996
+            ],
+            [
+              8.8539,
+              54.5169
+            ],
+            [
+              8.8633,
+              54.5236
+            ],
+            [
+              8.8766,
+              54.5427
+            ],
+            [
+              8.8734,
+              54.5536
+            ],
+            [
+              8.8691,
+              54.5652
+            ],
+            [
+              8.8936,
+              54.5999
+            ],
+            [
+              8.8874,
+              54.6096
+            ],
+            [
+              8.8493,
+              54.6247
+            ],
+            [
+              8.8328,
+              54.6517
+            ],
+            [
+              8.7798,
+              54.6656
+            ],
+            [
+              8.7534,
+              54.6822
+            ],
+            [
+              8.7415,
+              54.7165
+            ],
+            [
+              8.7191,
+              54.7253
+            ],
+            [
+              8.6923,
+              54.7237
+            ],
+            [
+              8.6871,
+              54.7294
+            ],
+            [
+              8.7147,
+              54.7378
+            ],
+            [
+              8.6975,
+              54.7595
+            ],
+            [
+              8.7021,
+              54.7729
+            ],
+            [
+              8.6825,
+              54.7924
+            ],
+            [
+              8.6598,
+              54.7958
+            ],
+            [
+              8.645,
+              54.8194
+            ],
+            [
+              8.6096,
+              54.8409
+            ],
+            [
+              8.6142,
+              54.8767
+            ],
+            [
+              8.6135,
+              54.8868
+            ],
+            [
+              8.6372,
+              54.8949
+            ],
+            [
+              8.6381,
+              54.9112
+            ],
+            [
+              8.6813,
+              54.9105
+            ],
+            [
+              8.7339,
+              54.8932
+            ],
+            [
+              8.7441,
+              54.8855
+            ],
+            [
+              8.7338,
+              54.8769
+            ],
+            [
+              8.7264,
+              54.8856
+            ],
+            [
+              8.7178,
+              54.8762
+            ],
+            [
+              8.6985,
+              54.8755
+            ],
+            [
+              8.6912,
+              54.8521
+            ],
+            [
+              8.7084,
+              54.8397
+            ],
+            [
+              8.7662,
+              54.8397
+            ],
+            [
+              8.7507,
+              54.8051
+            ],
+            [
+              8.775,
+              54.7918
+            ],
+            [
+              8.8187,
+              54.7816
+            ],
+            [
+              8.8011,
+              54.7631
+            ],
+            [
+              8.8106,
+              54.7593
+            ],
+            [
+              8.7904,
+              54.7291
+            ],
+            [
+              8.832,
+              54.7158
+            ],
+            [
+              8.8608,
+              54.7342
+            ],
+            [
+              8.8406,
+              54.7178
+            ],
+            [
+              8.8487,
+              54.7108
+            ],
+            [
+              8.8543,
+              54.6956
+            ],
+            [
+              8.8393,
+              54.6869
+            ],
+            [
+              8.8575,
+              54.6828
+            ],
+            [
+              8.8493,
+              54.6718
+            ],
+            [
+              8.8569,
+              54.6619
+            ],
+            [
+              8.8621,
+              54.6552
+            ],
+            [
+              8.8687,
+              54.651
+            ],
+            [
+              8.9056,
+              54.6258
+            ],
+            [
+              8.9353,
+              54.6156
+            ],
+            [
+              8.9581,
+              54.5969
+            ],
+            [
+              8.9608,
+              54.5873
+            ],
+            [
+              8.9695,
+              54.5743
+            ],
+            [
+              8.9553,
+              54.5661
+            ],
+            [
+              8.9857,
+              54.5589
+            ],
+            [
+              8.9988,
+              54.5661
+            ],
+            [
+              9.0125,
+              54.5666
+            ],
+            [
+              9.0401,
+              54.5641
+            ],
+            [
+              9.0425,
+              54.5533
+            ],
+            [
+              9.0433,
+              54.5487
+            ],
+            [
+              9.0581,
+              54.5424
+            ],
+            [
+              9.0603,
+              54.5348
+            ],
+            [
+              9.0494,
+              54.5328
+            ],
+            [
+              9.0472,
+              54.5057
+            ],
+            [
+              9.0472,
+              54.5011
+            ],
+            [
+              9.1017,
+              54.5041
+            ],
+            [
+              9.0936,
+              54.4816
+            ],
+            [
+              9.0849,
+              54.4586
+            ],
+            [
+              9.0472,
+              54.4707
+            ],
+            [
+              9.0295,
+              54.4642
+            ],
+            [
+              9.0297,
+              54.4686
+            ],
+            [
+              9.0171,
+              54.4526
+            ],
+            [
+              9.023,
+              54.4447
+            ],
+            [
+              9.0086,
+              54.4362
+            ],
+            [
+              9.0173,
+              54.4282
+            ],
+            [
+              9.044,
+              54.4344
+            ],
+            [
+              9.0573,
+              54.4274
+            ],
+            [
+              9.0595,
+              54.4149
+            ],
+            [
+              9.0326,
+              54.3966
+            ],
+            [
+              9.0338,
+              54.3813
+            ],
+            [
+              9.0232,
+              54.3775
+            ],
+            [
+              9.0016,
+              54.3743
+            ],
+            [
+              8.9816,
+              54.3566
+            ],
+            [
+              8.9956,
+              54.3358
+            ],
+            [
+              8.9796,
+              54.3243
+            ],
+            [
+              8.965,
+              54.3159
+            ],
+            [
+              8.907,
+              54.2876
+            ],
+            [
+              8.8981,
+              54.2634
+            ],
+            [
+              8.8455,
+              54.2664
+            ],
+            [
+              8.8376,
+              54.2824
+            ],
+            [
+              8.8222,
+              54.2905
+            ],
+            [
+              8.7829,
+              54.2803
+            ],
+            [
+              8.7703,
+              54.2814
+            ],
+            [
+              8.7676,
+              54.2884
+            ],
+            [
+              8.7384,
+              54.2937
+            ],
+            [
+              8.7222,
+              54.2887
+            ],
+            [
+              8.7065,
+              54.293
+            ],
+            [
+              8.699,
+              54.2828
+            ],
+            [
+              8.6748,
+              54.2785
+            ],
+            [
+              8.6095,
+              54.308
+            ],
+            [
+              8.5988,
+              54.3215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#7",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#7",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.5287,
+        "MaxLongitude": 8.6592,
+        "MinLatitude": 54.6176,
+        "MaxLatitude": 54.6523,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5287,
+              54.6261
+            ],
+            [
+              8.5403,
+              54.6361
+            ],
+            [
+              8.6433,
+              54.6523
+            ],
+            [
+              8.6592,
+              54.6459
+            ],
+            [
+              8.6323,
+              54.637
+            ],
+            [
+              8.5842,
+              54.6336
+            ],
+            [
+              8.5488,
+              54.6176
+            ],
+            [
+              8.5287,
+              54.6261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#8",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#8",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.588,
+        "MaxLongitude": 8.7051,
+        "MinLatitude": 54.4886,
+        "MaxLatitude": 54.5575,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.588,
+              54.5136
+            ],
+            [
+              8.5899,
+              54.5322
+            ],
+            [
+              8.6328,
+              54.5377
+            ],
+            [
+              8.6428,
+              54.5466
+            ],
+            [
+              8.7051,
+              54.5575
+            ],
+            [
+              8.6966,
+              54.5152
+            ],
+            [
+              8.6697,
+              54.4941
+            ],
+            [
+              8.6246,
+              54.4886
+            ],
+            [
+              8.588,
+              54.5136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#9",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#9",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.6813,
+        "MaxLongitude": 8.7131,
+        "MinLatitude": 54.6709,
+        "MaxLatitude": 54.6806,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6813,
+              54.6757
+            ],
+            [
+              8.6979,
+              54.6806
+            ],
+            [
+              8.7131,
+              54.6776
+            ],
+            [
+              8.7068,
+              54.6716
+            ],
+            [
+              8.6869,
+              54.6709
+            ],
+            [
+              8.6813,
+              54.6757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#10",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#10",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 8.5086,
+        "MaxLongitude": 8.5729,
+        "MinLatitude": 54.5575,
+        "MaxLatitude": 54.5794,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5086,
+              54.5745
+            ],
+            [
+              8.5152,
+              54.5794
+            ],
+            [
+              8.5307,
+              54.5756
+            ],
+            [
+              8.5562,
+              54.5786
+            ],
+            [
+              8.5729,
+              54.5592
+            ],
+            [
+              8.5463,
+              54.5575
+            ],
+            [
+              8.5086,
+              54.5745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#11",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#11",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
+        "Version": 21,
+        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:orkan",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T13:33:00+02:00",
+        "Ablauf": "2026-10-25T06:00:00+01:00",
+        "MinLongitude": 7.8694,
+        "MaxLongitude": 7.9192,
+        "MinLatitude": 54.1723,
+        "MaxLatitude": 54.1895,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8694,
+              54.1879
+            ],
+            [
+              7.9018,
+              54.1872
+            ],
+            [
+              7.9192,
+              54.1895
+            ],
+            [
+              7.918,
+              54.1812
+            ],
+            [
+              7.9091,
+              54.1803
+            ],
+            [
+              7.8891,
+              54.1723
+            ],
+            [
+              7.8694,
+              54.1879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL#1",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL",
+        "strokeColor": "#FF8C00",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.45,
+        "zIndex": 30,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL#1",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL",
+        "Version": 21,
+        "Titel": "Amtliche WARNUNG vor DAUERREGEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:dauerregen",
+        "Schweregrad": "Moderate",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T15:17:00+02:00",
+        "Ablauf": "2026-10-25T12:00:00+01:00",
+        "MinLongitude": 10.0657,
+        "MaxLongitude": 10.7009,
+        "MinLatitude": 51.5551,
+        "MaxLatitude": 52.0046,
+        "color": "#FF8C00",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0657,
+              51.9273
+            ],
+            [
+              10.0807,
+              51.9364
+            ],
+            [
+              10.0711,
+              51.9403
+            ],
+            [
+              10.0818,
+              51.9596
+            ],
+            [
+              10.0972,
+              51.9613
+            ],
+            [
+              10.1756,
+              51.9555
+            ],
+            [
+              10.1898,
+              51.9539
+            ],
+            [
+              10.1936,
+              51.9587
+            ],
+            [
+              10.2093,
+              51.9522
+            ],
+            [
+              10.2209,
+              51.9598
+            ],
+            [
+              10.2371,
+              51.9593
+            ],
+            [
+              10.2406,
+              51.9541
+            ],
+            [
+              10.2573,
+              51.9577
+            ],
+            [
+              10.286,
+              51.9663
+            ],
+            [
+              10.3046,
+              51.9639
+            ],
+            [
+              10.3062,
+              51.9704
+            ],
+            [
+              10.3326,
+              51.9832
+            ],
+            [
+              10.3737,
+              51.9851
+            ],
+            [
+              10.3688,
+              51.9677
+            ],
+            [
+              10.3819,
+              51.9704
+            ],
+            [
+              10.4037,
+              51.9564
+            ],
+            [
+              10.4372,
+              51.9707
+            ],
+            [
+              10.4598,
+              51.966
+            ],
+            [
+              10.4582,
+              51.9728
+            ],
+            [
+              10.4824,
+              51.9915
+            ],
+            [
+              10.4975,
+              51.9887
+            ],
+            [
+              10.501,
+              51.979
+            ],
+            [
+              10.5328,
+              51.9705
+            ],
+            [
+              10.5392,
+              51.9875
+            ],
+            [
+              10.5615,
+              52.0046
+            ],
+            [
+              10.5834,
+              51.9863
+            ],
+            [
+              10.5849,
+              51.9756
+            ],
+            [
+              10.6059,
+              51.9773
+            ],
+            [
+              10.6189,
+              51.9574
+            ],
+            [
+              10.6418,
+              51.9628
+            ],
+            [
+              10.6484,
+              51.9545
+            ],
+            [
+              10.6251,
+              51.9494
+            ],
+            [
+              10.6129,
+              51.9384
+            ],
+            [
+              10.6128,
+              51.9204
+            ],
+            [
+              10.6269,
+              51.9171
+            ],
+            [
+              10.6404,
+              51.914
+            ],
+            [
+              10.6508,
+              51.9004
+            ],
+            [
+              10.6501,
+              51.8893
+            ],
+            [
+              10.6352,
+              51.8767
+            ],
+            [
+              10.6031,
+              51.855
+            ],
+            [
+              10.5823,
+              51.8514
+            ],
+            [
+              10.5764,
+              51.8425
+            ],
+            [
+              10.5873,
+              51.8352
+            ],
+            [
+              10.5738,
+              51.8108
+            ],
+            [
+              10.586,
+              51.7876
+            ],
+            [
+              10.5797,
+              51.7822
+            ],
+            [
+              10.5978,
+              51.7656
+            ],
+            [
+              10.626,
+              51.7582
+            ],
+            [
+              10.649,
+              51.7186
+            ],
+            [
+              10.6683,
+              51.709
+            ],
+            [
+              10.6672,
+              51.6852
+            ],
+            [
+              10.6708,
+              51.6683
+            ],
+            [
+              10.687,
+              51.6534
+            ],
+            [
+              10.7009,
+              51.6416
+            ],
+            [
+              10.6756,
+              51.6382
+            ],
+            [
+              10.6816,
+              51.6284
+            ],
+            [
+              10.6474,
+              51.6224
+            ],
+            [
+              10.6479,
+              51.6081
+            ],
+            [
+              10.6352,
+              51.6079
+            ],
+            [
+              10.6312,
+              51.6212
+            ],
+            [
+              10.65,
+              51.6428
+            ],
+            [
+              10.6427,
+              51.6532
+            ],
+            [
+              10.6138,
+              51.6202
+            ],
+            [
+              10.6225,
+              51.5952
+            ],
+            [
+              10.6127,
+              51.5966
+            ],
+            [
+              10.5879,
+              51.6195
+            ],
+            [
+              10.5994,
+              51.6422
+            ],
+            [
+              10.5924,
+              51.6499
+            ],
+            [
+              10.5718,
+              51.6493
+            ],
+            [
+              10.5615,
+              51.6396
+            ],
+            [
+              10.5795,
+              51.616
+            ],
+            [
+              10.5441,
+              51.6147
+            ],
+            [
+              10.5257,
+              51.6225
+            ],
+            [
+              10.5002,
+              51.6013
+            ],
+            [
+              10.5121,
+              51.5923
+            ],
+            [
+              10.5028,
+              51.5848
+            ],
+            [
+              10.5072,
+              51.5627
+            ],
+            [
+              10.4882,
+              51.5756
+            ],
+            [
+              10.4304,
+              51.5922
+            ],
+            [
+              10.3785,
+              51.5885
+            ],
+            [
+              10.3686,
+              51.5866
+            ],
+            [
+              10.3794,
+              51.5705
+            ],
+            [
+              10.3672,
+              51.5551
+            ],
+            [
+              10.3012,
+              51.5684
+            ],
+            [
+              10.3205,
+              51.5845
+            ],
+            [
+              10.2997,
+              51.6007
+            ],
+            [
+              10.3125,
+              51.6024
+            ],
+            [
+              10.3131,
+              51.6078
+            ],
+            [
+              10.2959,
+              51.6089
+            ],
+            [
+              10.2997,
+              51.6141
+            ],
+            [
+              10.2702,
+              51.6233
+            ],
+            [
+              10.292,
+              51.6418
+            ],
+            [
+              10.3047,
+              51.6421
+            ],
+            [
+              10.3093,
+              51.6607
+            ],
+            [
+              10.3151,
+              51.6583
+            ],
+            [
+              10.3148,
+              51.6673
+            ],
+            [
+              10.3081,
+              51.6716
+            ],
+            [
+              10.2965,
+              51.6854
+            ],
+            [
+              10.2784,
+              51.6796
+            ],
+            [
+              10.2673,
+              51.6852
+            ],
+            [
+              10.2614,
+              51.6764
+            ],
+            [
+              10.2098,
+              51.6674
+            ],
+            [
+              10.182,
+              51.6809
+            ],
+            [
+              10.1547,
+              51.6801
+            ],
+            [
+              10.1445,
+              51.6829
+            ],
+            [
+              10.1345,
+              51.6987
+            ],
+            [
+              10.1384,
+              51.7094
+            ],
+            [
+              10.1177,
+              51.7148
+            ],
+            [
+              10.1149,
+              51.7288
+            ],
+            [
+              10.1302,
+              51.7276
+            ],
+            [
+              10.148,
+              51.7543
+            ],
+            [
+              10.1578,
+              51.7803
+            ],
+            [
+              10.1525,
+              51.7935
+            ],
+            [
+              10.1542,
+              51.8024
+            ],
+            [
+              10.1387,
+              51.805
+            ],
+            [
+              10.143,
+              51.8303
+            ],
+            [
+              10.1141,
+              51.835
+            ],
+            [
+              10.1068,
+              51.8424
+            ],
+            [
+              10.1184,
+              51.8721
+            ],
+            [
+              10.1,
+              51.8783
+            ],
+            [
+              10.0975,
+              51.8887
+            ],
+            [
+              10.1059,
+              51.9029
+            ],
+            [
+              10.0657,
+              51.9273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL#2",
+      "properties": {
+        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL",
+        "strokeColor": "#FF8C00",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#FF8C00",
+        "fillOpacity": 0.45,
+        "zIndex": 30,
+        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL#2",
+        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792847820000.5dc77d8d-8e4e-41d7-8366-4446fddf19b5.MUL",
+        "Version": 21,
+        "Titel": "Amtliche WARNUNG vor DAUERREGEN",
+        "Quelle": "DWD",
+        "QuellEndpunkt": "dwd",
+        "Eventcode": null,
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Titel:dauerregen",
+        "Schweregrad": "Moderate",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-24T15:17:00+02:00",
+        "Ablauf": "2026-10-25T12:00:00+01:00",
+        "MinLongitude": 10.5648,
+        "MaxLongitude": 10.6036,
+        "MinLatitude": 51.5876,
+        "MaxLatitude": 51.616,
+        "color": "#FF8C00",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5648,
+              51.6105
+            ],
+            [
+              10.5795,
+              51.616
+            ],
+            [
+              10.6036,
+              51.5909
+            ],
+            [
+              10.5809,
+              51.5876
+            ],
+            [
+              10.5648,
+              51.6105
             ]
           ]
         ]

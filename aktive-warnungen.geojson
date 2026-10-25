@@ -3,6 +3,1246 @@
   "features": [
     {
       "type": "Feature",
+      "id": "mow.DE-BW-FR-W022-20261025-000#1",
+      "properties": {
+        "warnId": "mow.DE-BW-FR-W022-20261025-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-FR-W022-20261025-000#1",
+        "WarnungID": "mow.DE-BW-FR-W022-20261025-000",
+        "Version": 21,
+        "Titel": "Großflächiger Stromausfall - Stadt Freiburg, Landkreis Breisgau Hochschwarzwald",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T07:24:17+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.9263,
+        "MaxLongitude": 8.0188,
+        "MinLatitude": 47.9753,
+        "MaxLatitude": 48.0257,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9263,
+              47.9875
+            ],
+            [
+              7.9303,
+              47.9908
+            ],
+            [
+              7.9265,
+              48.014
+            ],
+            [
+              7.9391,
+              48.0185
+            ],
+            [
+              7.9515,
+              48.0185
+            ],
+            [
+              7.9537,
+              48.0221
+            ],
+            [
+              7.9596,
+              48.0214
+            ],
+            [
+              7.9751,
+              48.0257
+            ],
+            [
+              7.9949,
+              48.022
+            ],
+            [
+              8.0054,
+              48.0226
+            ],
+            [
+              8.004,
+              48.0191
+            ],
+            [
+              8.0108,
+              48.0162
+            ],
+            [
+              8.0094,
+              48.012
+            ],
+            [
+              8.0141,
+              48.0118
+            ],
+            [
+              8.0188,
+              48.005
+            ],
+            [
+              7.9975,
+              47.9955
+            ],
+            [
+              8.0006,
+              47.9842
+            ],
+            [
+              7.9963,
+              47.98
+            ],
+            [
+              7.9889,
+              47.9789
+            ],
+            [
+              7.9767,
+              47.9753
+            ],
+            [
+              7.9625,
+              47.9763
+            ],
+            [
+              7.9506,
+              47.982
+            ],
+            [
+              7.9505,
+              47.9845
+            ],
+            [
+              7.9374,
+              47.9862
+            ],
+            [
+              7.9373,
+              47.9887
+            ],
+            [
+              7.9263,
+              47.9875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-FR-W022-20261025-000#2",
+      "properties": {
+        "warnId": "mow.DE-BW-FR-W022-20261025-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-FR-W022-20261025-000#2",
+        "WarnungID": "mow.DE-BW-FR-W022-20261025-000",
+        "Version": 21,
+        "Titel": "Großflächiger Stromausfall - Stadt Freiburg, Landkreis Breisgau Hochschwarzwald",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T07:24:17+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.6628,
+        "MaxLongitude": 7.9305,
+        "MinLatitude": 47.904,
+        "MaxLatitude": 48.0705,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.6628,
+              47.9659
+            ],
+            [
+              7.6792,
+              47.9963
+            ],
+            [
+              7.7032,
+              48.0277
+            ],
+            [
+              7.7087,
+              48.0346
+            ],
+            [
+              7.7317,
+              48.0378
+            ],
+            [
+              7.7353,
+              48.037
+            ],
+            [
+              7.7343,
+              48.0323
+            ],
+            [
+              7.7575,
+              48.0189
+            ],
+            [
+              7.7683,
+              48.0169
+            ],
+            [
+              7.7759,
+              48.0218
+            ],
+            [
+              7.787,
+              48.0303
+            ],
+            [
+              7.7893,
+              48.0345
+            ],
+            [
+              7.7937,
+              48.044
+            ],
+            [
+              7.7938,
+              48.0537
+            ],
+            [
+              7.7966,
+              48.0609
+            ],
+            [
+              7.8152,
+              48.0705
+            ],
+            [
+              7.8253,
+              48.0691
+            ],
+            [
+              7.8499,
+              48.0535
+            ],
+            [
+              7.8534,
+              48.0501
+            ],
+            [
+              7.8831,
+              48.0201
+            ],
+            [
+              7.8749,
+              48.0209
+            ],
+            [
+              7.8717,
+              48.0191
+            ],
+            [
+              7.8737,
+              48.0154
+            ],
+            [
+              7.8873,
+              48.0103
+            ],
+            [
+              7.9006,
+              48.0104
+            ],
+            [
+              7.9135,
+              48.012
+            ],
+            [
+              7.9206,
+              48.0153
+            ],
+            [
+              7.9267,
+              48.0136
+            ],
+            [
+              7.9284,
+              48.0079
+            ],
+            [
+              7.9305,
+              47.9918
+            ],
+            [
+              7.9246,
+              47.939
+            ],
+            [
+              7.9084,
+              47.9144
+            ],
+            [
+              7.8947,
+              47.9066
+            ],
+            [
+              7.8837,
+              47.904
+            ],
+            [
+              7.8722,
+              47.904
+            ],
+            [
+              7.8627,
+              47.9131
+            ],
+            [
+              7.8615,
+              47.9157
+            ],
+            [
+              7.8623,
+              47.9226
+            ],
+            [
+              7.8683,
+              47.9319
+            ],
+            [
+              7.8711,
+              47.9332
+            ],
+            [
+              7.8743,
+              47.9303
+            ],
+            [
+              7.8756,
+              47.9303
+            ],
+            [
+              7.8778,
+              47.9367
+            ],
+            [
+              7.8788,
+              47.9474
+            ],
+            [
+              7.8357,
+              47.9728
+            ],
+            [
+              7.8232,
+              47.9731
+            ],
+            [
+              7.8164,
+              47.9679
+            ],
+            [
+              7.8024,
+              47.9638
+            ],
+            [
+              7.7799,
+              47.9703
+            ],
+            [
+              7.7678,
+              47.9774
+            ],
+            [
+              7.7551,
+              47.9781
+            ],
+            [
+              7.7268,
+              47.9785
+            ],
+            [
+              7.7207,
+              47.9744
+            ],
+            [
+              7.7244,
+              47.9695
+            ],
+            [
+              7.7194,
+              47.9667
+            ],
+            [
+              7.7122,
+              47.963
+            ],
+            [
+              7.7036,
+              47.9589
+            ],
+            [
+              7.6778,
+              47.9589
+            ],
+            [
+              7.6677,
+              47.9624
+            ],
+            [
+              7.6628,
+              47.9659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-FR-W022-20261025-000#3",
+      "properties": {
+        "warnId": "mow.DE-BW-FR-W022-20261025-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-FR-W022-20261025-000#3",
+        "WarnungID": "mow.DE-BW-FR-W022-20261025-000",
+        "Version": 21,
+        "Titel": "Großflächiger Stromausfall - Stadt Freiburg, Landkreis Breisgau Hochschwarzwald",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T07:24:17+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.885,
+        "MaxLongitude": 8.0397,
+        "MinLatitude": 47.8666,
+        "MaxLatitude": 47.949,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.885,
+              47.9042
+            ],
+            [
+              7.8919,
+              47.9062
+            ],
+            [
+              7.8937,
+              47.9101
+            ],
+            [
+              7.9092,
+              47.9144
+            ],
+            [
+              7.9075,
+              47.9278
+            ],
+            [
+              7.922,
+              47.9374
+            ],
+            [
+              7.9414,
+              47.9382
+            ],
+            [
+              7.9511,
+              47.949
+            ],
+            [
+              7.9638,
+              47.9461
+            ],
+            [
+              7.9731,
+              47.9477
+            ],
+            [
+              7.9826,
+              47.9461
+            ],
+            [
+              7.9932,
+              47.9346
+            ],
+            [
+              7.9993,
+              47.932
+            ],
+            [
+              7.9992,
+              47.9251
+            ],
+            [
+              8.0053,
+              47.9212
+            ],
+            [
+              8.0163,
+              47.9213
+            ],
+            [
+              8.0281,
+              47.9158
+            ],
+            [
+              8.0369,
+              47.9081
+            ],
+            [
+              8.0397,
+              47.9009
+            ],
+            [
+              8.0339,
+              47.8935
+            ],
+            [
+              8.025,
+              47.8918
+            ],
+            [
+              8.0234,
+              47.8845
+            ],
+            [
+              8.0088,
+              47.8784
+            ],
+            [
+              7.9966,
+              47.8812
+            ],
+            [
+              7.9945,
+              47.8716
+            ],
+            [
+              7.9904,
+              47.8719
+            ],
+            [
+              7.9868,
+              47.867
+            ],
+            [
+              7.9834,
+              47.8666
+            ],
+            [
+              7.9757,
+              47.8669
+            ],
+            [
+              7.9423,
+              47.879
+            ],
+            [
+              7.9324,
+              47.8744
+            ],
+            [
+              7.9292,
+              47.8768
+            ],
+            [
+              7.9131,
+              47.8788
+            ],
+            [
+              7.9055,
+              47.8758
+            ],
+            [
+              7.8958,
+              47.8803
+            ],
+            [
+              7.8899,
+              47.879
+            ],
+            [
+              7.8883,
+              47.887
+            ],
+            [
+              7.8921,
+              47.8948
+            ],
+            [
+              7.885,
+              47.9042
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-FR-W022-20261025-000#4",
+      "properties": {
+        "warnId": "mow.DE-BW-FR-W022-20261025-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-FR-W022-20261025-000#4",
+        "WarnungID": "mow.DE-BW-FR-W022-20261025-000",
+        "Version": 21,
+        "Titel": "Großflächiger Stromausfall - Stadt Freiburg, Landkreis Breisgau Hochschwarzwald",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T07:24:17+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.9949,
+        "MaxLongitude": 8.1021,
+        "MinLatitude": 47.9938,
+        "MaxLatitude": 48.0634,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9949,
+              48.022
+            ],
+            [
+              7.9962,
+              48.0256
+            ],
+            [
+              8.002,
+              48.0278
+            ],
+            [
+              7.9998,
+              48.0299
+            ],
+            [
+              8.0035,
+              48.0297
+            ],
+            [
+              8.0084,
+              48.0254
+            ],
+            [
+              8.0101,
+              48.0281
+            ],
+            [
+              8.0049,
+              48.0372
+            ],
+            [
+              8.0149,
+              48.0488
+            ],
+            [
+              8.0124,
+              48.0624
+            ],
+            [
+              8.0187,
+              48.059
+            ],
+            [
+              8.0348,
+              48.0573
+            ],
+            [
+              8.0485,
+              48.0587
+            ],
+            [
+              8.0578,
+              48.0634
+            ],
+            [
+              8.0663,
+              48.0632
+            ],
+            [
+              8.074,
+              48.0564
+            ],
+            [
+              8.0769,
+              48.0442
+            ],
+            [
+              8.0916,
+              48.0435
+            ],
+            [
+              8.0906,
+              48.0392
+            ],
+            [
+              8.0933,
+              48.0369
+            ],
+            [
+              8.0946,
+              48.0391
+            ],
+            [
+              8.0985,
+              48.0333
+            ],
+            [
+              8.0978,
+              48.0287
+            ],
+            [
+              8.1021,
+              48.0259
+            ],
+            [
+              8.0923,
+              48.0243
+            ],
+            [
+              8.0974,
+              48.0212
+            ],
+            [
+              8.095,
+              48.018
+            ],
+            [
+              8.0852,
+              48.0126
+            ],
+            [
+              8.0783,
+              48.014
+            ],
+            [
+              8.0735,
+              48.0101
+            ],
+            [
+              8.062,
+              48.0084
+            ],
+            [
+              8.0457,
+              47.9997
+            ],
+            [
+              8.037,
+              47.9938
+            ],
+            [
+              8.0285,
+              48.0023
+            ],
+            [
+              8.0261,
+              48.0005
+            ],
+            [
+              8.0221,
+              48.0057
+            ],
+            [
+              8.0188,
+              48.005
+            ],
+            [
+              8.0141,
+              48.0118
+            ],
+            [
+              8.0094,
+              48.012
+            ],
+            [
+              8.0108,
+              48.0162
+            ],
+            [
+              8.004,
+              48.0191
+            ],
+            [
+              8.0054,
+              48.0226
+            ],
+            [
+              7.9949,
+              48.022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-FR-W022-20261025-000#5",
+      "properties": {
+        "warnId": "mow.DE-BW-FR-W022-20261025-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-FR-W022-20261025-000#5",
+        "WarnungID": "mow.DE-BW-FR-W022-20261025-000",
+        "Version": 21,
+        "Titel": "Großflächiger Stromausfall - Stadt Freiburg, Landkreis Breisgau Hochschwarzwald",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T07:24:17+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.9823,
+        "MaxLongitude": 8.0937,
+        "MinLatitude": 47.9212,
+        "MaxLatitude": 48.0057,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9823,
+              47.9517
+            ],
+            [
+              7.9938,
+              47.9539
+            ],
+            [
+              7.9935,
+              47.9629
+            ],
+            [
+              7.9879,
+              47.9663
+            ],
+            [
+              7.985,
+              47.9643
+            ],
+            [
+              7.9889,
+              47.9789
+            ],
+            [
+              7.9963,
+              47.98
+            ],
+            [
+              8.0006,
+              47.9842
+            ],
+            [
+              7.9975,
+              47.9955
+            ],
+            [
+              8.0188,
+              48.005
+            ],
+            [
+              8.0221,
+              48.0057
+            ],
+            [
+              8.0261,
+              48.0005
+            ],
+            [
+              8.0285,
+              48.0023
+            ],
+            [
+              8.037,
+              47.9938
+            ],
+            [
+              8.0457,
+              47.9997
+            ],
+            [
+              8.0544,
+              47.9981
+            ],
+            [
+              8.0602,
+              47.9999
+            ],
+            [
+              8.0914,
+              47.9923
+            ],
+            [
+              8.0831,
+              47.9839
+            ],
+            [
+              8.0937,
+              47.9782
+            ],
+            [
+              8.0887,
+              47.975
+            ],
+            [
+              8.083,
+              47.9735
+            ],
+            [
+              8.0792,
+              47.9752
+            ],
+            [
+              8.0847,
+              47.9806
+            ],
+            [
+              8.0818,
+              47.9828
+            ],
+            [
+              8.0742,
+              47.978
+            ],
+            [
+              8.0693,
+              47.9847
+            ],
+            [
+              8.0614,
+              47.9809
+            ],
+            [
+              8.0547,
+              47.9823
+            ],
+            [
+              8.0547,
+              47.9783
+            ],
+            [
+              8.0517,
+              47.9777
+            ],
+            [
+              8.0581,
+              47.976
+            ],
+            [
+              8.0545,
+              47.9744
+            ],
+            [
+              8.0596,
+              47.9722
+            ],
+            [
+              8.0556,
+              47.9719
+            ],
+            [
+              8.0567,
+              47.9653
+            ],
+            [
+              8.0508,
+              47.9636
+            ],
+            [
+              8.0563,
+              47.9607
+            ],
+            [
+              8.0589,
+              47.9535
+            ],
+            [
+              8.0591,
+              47.9444
+            ],
+            [
+              8.0554,
+              47.9428
+            ],
+            [
+              8.0547,
+              47.9392
+            ],
+            [
+              8.0408,
+              47.9462
+            ],
+            [
+              8.038,
+              47.9443
+            ],
+            [
+              8.0301,
+              47.948
+            ],
+            [
+              8.033,
+              47.9438
+            ],
+            [
+              8.0306,
+              47.9413
+            ],
+            [
+              8.0174,
+              47.9414
+            ],
+            [
+              8.0217,
+              47.9322
+            ],
+            [
+              8.0163,
+              47.9213
+            ],
+            [
+              8.0053,
+              47.9212
+            ],
+            [
+              7.9992,
+              47.9251
+            ],
+            [
+              7.9993,
+              47.932
+            ],
+            [
+              7.9932,
+              47.9346
+            ],
+            [
+              7.9826,
+              47.9461
+            ],
+            [
+              7.9823,
+              47.9517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-FR-W022-20261025-000#6",
+      "properties": {
+        "warnId": "mow.DE-BW-FR-W022-20261025-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-FR-W022-20261025-000#6",
+        "WarnungID": "mow.DE-BW-FR-W022-20261025-000",
+        "Version": 21,
+        "Titel": "Großflächiger Stromausfall - Stadt Freiburg, Landkreis Breisgau Hochschwarzwald",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-063",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T07:24:17+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.914,
+        "MaxLongitude": 7.9938,
+        "MinLatitude": 47.9374,
+        "MaxLatitude": 47.9887,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.914,
+              47.9794
+            ],
+            [
+              7.9248,
+              47.9805
+            ],
+            [
+              7.9263,
+              47.9875
+            ],
+            [
+              7.9373,
+              47.9887
+            ],
+            [
+              7.9374,
+              47.9862
+            ],
+            [
+              7.9505,
+              47.9845
+            ],
+            [
+              7.9506,
+              47.982
+            ],
+            [
+              7.9625,
+              47.9763
+            ],
+            [
+              7.9767,
+              47.9753
+            ],
+            [
+              7.9889,
+              47.9789
+            ],
+            [
+              7.985,
+              47.9643
+            ],
+            [
+              7.9879,
+              47.9663
+            ],
+            [
+              7.9935,
+              47.9629
+            ],
+            [
+              7.9938,
+              47.9539
+            ],
+            [
+              7.9823,
+              47.9517
+            ],
+            [
+              7.9826,
+              47.9461
+            ],
+            [
+              7.9731,
+              47.9477
+            ],
+            [
+              7.9638,
+              47.9461
+            ],
+            [
+              7.9511,
+              47.949
+            ],
+            [
+              7.9414,
+              47.9382
+            ],
+            [
+              7.922,
+              47.9374
+            ],
+            [
+              7.9247,
+              47.94
+            ],
+            [
+              7.9247,
+              47.9509
+            ],
+            [
+              7.9151,
+              47.9628
+            ],
+            [
+              7.9241,
+              47.9706
+            ],
+            [
+              7.914,
+              47.9794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792835100000.a45f5264-0cb6-4aef-933d-d004ec1f8314.MUL#1",
       "properties": {
         "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792835100000.a45f5264-0cb6-4aef-933d-d004ec1f8314.MUL",
@@ -19060,1466 +20300,6 @@
             [
               12.6773,
               49.0323
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#1",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#1",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.2765,
-        "MaxLongitude": 8.4913,
-        "MinLatitude": 54.7393,
-        "MaxLatitude": 55.0571,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.2765,
-              54.7527
-            ],
-            [
-              8.2797,
-              54.7962
-            ],
-            [
-              8.2872,
-              54.8837
-            ],
-            [
-              8.309,
-              54.9335
-            ],
-            [
-              8.3209,
-              54.9526
-            ],
-            [
-              8.3505,
-              54.9924
-            ],
-            [
-              8.3937,
-              55.0513
-            ],
-            [
-              8.4073,
-              55.0571
-            ],
-            [
-              8.4288,
-              55.0554
-            ],
-            [
-              8.4636,
-              55.0449
-            ],
-            [
-              8.3962,
-              55.0438
-            ],
-            [
-              8.4009,
-              55.0351
-            ],
-            [
-              8.4255,
-              55.0334
-            ],
-            [
-              8.4405,
-              55.0232
-            ],
-            [
-              8.4391,
-              55.016
-            ],
-            [
-              8.395,
-              55.0031
-            ],
-            [
-              8.3714,
-              54.9887
-            ],
-            [
-              8.3534,
-              54.9689
-            ],
-            [
-              8.363,
-              54.9436
-            ],
-            [
-              8.3622,
-              54.9286
-            ],
-            [
-              8.3731,
-              54.8968
-            ],
-            [
-              8.4268,
-              54.8781
-            ],
-            [
-              8.4913,
-              54.8768
-            ],
-            [
-              8.4547,
-              54.8567
-            ],
-            [
-              8.4128,
-              54.8456
-            ],
-            [
-              8.3742,
-              54.8595
-            ],
-            [
-              8.3628,
-              54.8748
-            ],
-            [
-              8.3399,
-              54.879
-            ],
-            [
-              8.3325,
-              54.8632
-            ],
-            [
-              8.3062,
-              54.8569
-            ],
-            [
-              8.2952,
-              54.8415
-            ],
-            [
-              8.2936,
-              54.7938
-            ],
-            [
-              8.301,
-              54.7744
-            ],
-            [
-              8.2935,
-              54.7393
-            ],
-            [
-              8.2765,
-              54.7527
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#2",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#2",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.7151,
-        "MaxLongitude": 8.7365,
-        "MinLatitude": 54.6285,
-        "MaxLatitude": 54.6441,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.7151,
-              54.6392
-            ],
-            [
-              8.7365,
-              54.6441
-            ],
-            [
-              8.736,
-              54.6327
-            ],
-            [
-              8.7159,
-              54.6285
-            ],
-            [
-              8.7151,
-              54.6392
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#3",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#3",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.3967,
-        "MaxLongitude": 8.5975,
-        "MinLatitude": 54.6798,
-        "MaxLatitude": 54.7556,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.3967,
-              54.7051
-            ],
-            [
-              8.4036,
-              54.7302
-            ],
-            [
-              8.4374,
-              54.7483
-            ],
-            [
-              8.5056,
-              54.752
-            ],
-            [
-              8.5384,
-              54.7556
-            ],
-            [
-              8.585,
-              54.745
-            ],
-            [
-              8.5836,
-              54.7286
-            ],
-            [
-              8.5975,
-              54.719
-            ],
-            [
-              8.5839,
-              54.7118
-            ],
-            [
-              8.5668,
-              54.6798
-            ],
-            [
-              8.5251,
-              54.6805
-            ],
-            [
-              8.4705,
-              54.6826
-            ],
-            [
-              8.4535,
-              54.6924
-            ],
-            [
-              8.446,
-              54.6925
-            ],
-            [
-              8.4252,
-              54.6949
-            ],
-            [
-              8.3967,
-              54.7051
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#4",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#4",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.7891,
-        "MaxLongitude": 8.832,
-        "MinLatitude": 54.5426,
-        "MaxLatitude": 54.5542,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.7891,
-              54.5518
-            ],
-            [
-              8.813,
-              54.5542
-            ],
-            [
-              8.832,
-              54.5521
-            ],
-            [
-              8.8226,
-              54.5426
-            ],
-            [
-              8.7891,
-              54.5518
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#5",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#5",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.2928,
-        "MaxLongitude": 8.4019,
-        "MinLatitude": 54.6097,
-        "MaxLatitude": 54.7116,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.2928,
-              54.6673
-            ],
-            [
-              8.3074,
-              54.6839
-            ],
-            [
-              8.3562,
-              54.7116
-            ],
-            [
-              8.3394,
-              54.6952
-            ],
-            [
-              8.3505,
-              54.6755
-            ],
-            [
-              8.3609,
-              54.65
-            ],
-            [
-              8.3823,
-              54.64
-            ],
-            [
-              8.3799,
-              54.6328
-            ],
-            [
-              8.4019,
-              54.6262
-            ],
-            [
-              8.3866,
-              54.6234
-            ],
-            [
-              8.401,
-              54.6181
-            ],
-            [
-              8.3823,
-              54.6097
-            ],
-            [
-              8.3578,
-              54.6112
-            ],
-            [
-              8.3365,
-              54.6272
-            ],
-            [
-              8.2928,
-              54.6673
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#6",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#6",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.5988,
-        "MaxLongitude": 9.1017,
-        "MinLatitude": 54.2634,
-        "MaxLatitude": 54.9112,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.5988,
-              54.3215
-            ],
-            [
-              8.5992,
-              54.3287
-            ],
-            [
-              8.6071,
-              54.3289
-            ],
-            [
-              8.6031,
-              54.3406
-            ],
-            [
-              8.6435,
-              54.3383
-            ],
-            [
-              8.6583,
-              54.3489
-            ],
-            [
-              8.6915,
-              54.3552
-            ],
-            [
-              8.6933,
-              54.3676
-            ],
-            [
-              8.6899,
-              54.3735
-            ],
-            [
-              8.6584,
-              54.3743
-            ],
-            [
-              8.6493,
-              54.381
-            ],
-            [
-              8.6725,
-              54.3995
-            ],
-            [
-              8.6994,
-              54.397
-            ],
-            [
-              8.8009,
-              54.4084
-            ],
-            [
-              8.8322,
-              54.409
-            ],
-            [
-              8.8523,
-              54.4033
-            ],
-            [
-              8.8769,
-              54.4074
-            ],
-            [
-              8.9123,
-              54.4171
-            ],
-            [
-              8.9312,
-              54.4313
-            ],
-            [
-              8.9498,
-              54.4387
-            ],
-            [
-              8.9558,
-              54.4509
-            ],
-            [
-              9.0039,
-              54.4628
-            ],
-            [
-              9.0156,
-              54.4752
-            ],
-            [
-              9.0028,
-              54.4795
-            ],
-            [
-              9.013,
-              54.4826
-            ],
-            [
-              9.01,
-              54.4976
-            ],
-            [
-              8.9917,
-              54.5189
-            ],
-            [
-              8.9878,
-              54.5248
-            ],
-            [
-              8.9459,
-              54.5121
-            ],
-            [
-              8.9484,
-              54.5004
-            ],
-            [
-              8.9144,
-              54.4705
-            ],
-            [
-              8.8904,
-              54.4592
-            ],
-            [
-              8.8436,
-              54.46
-            ],
-            [
-              8.8057,
-              54.4704
-            ],
-            [
-              8.817,
-              54.4864
-            ],
-            [
-              8.8055,
-              54.4996
-            ],
-            [
-              8.8539,
-              54.5169
-            ],
-            [
-              8.8633,
-              54.5236
-            ],
-            [
-              8.8766,
-              54.5427
-            ],
-            [
-              8.8734,
-              54.5536
-            ],
-            [
-              8.8691,
-              54.5652
-            ],
-            [
-              8.8936,
-              54.5999
-            ],
-            [
-              8.8874,
-              54.6096
-            ],
-            [
-              8.8493,
-              54.6247
-            ],
-            [
-              8.8328,
-              54.6517
-            ],
-            [
-              8.7798,
-              54.6656
-            ],
-            [
-              8.7534,
-              54.6822
-            ],
-            [
-              8.7415,
-              54.7165
-            ],
-            [
-              8.7191,
-              54.7253
-            ],
-            [
-              8.6923,
-              54.7237
-            ],
-            [
-              8.6871,
-              54.7294
-            ],
-            [
-              8.7147,
-              54.7378
-            ],
-            [
-              8.6975,
-              54.7595
-            ],
-            [
-              8.7021,
-              54.7729
-            ],
-            [
-              8.6825,
-              54.7924
-            ],
-            [
-              8.6598,
-              54.7958
-            ],
-            [
-              8.645,
-              54.8194
-            ],
-            [
-              8.6096,
-              54.8409
-            ],
-            [
-              8.6142,
-              54.8767
-            ],
-            [
-              8.6135,
-              54.8868
-            ],
-            [
-              8.6372,
-              54.8949
-            ],
-            [
-              8.6381,
-              54.9112
-            ],
-            [
-              8.6813,
-              54.9105
-            ],
-            [
-              8.7339,
-              54.8932
-            ],
-            [
-              8.7441,
-              54.8855
-            ],
-            [
-              8.7338,
-              54.8769
-            ],
-            [
-              8.7264,
-              54.8856
-            ],
-            [
-              8.7178,
-              54.8762
-            ],
-            [
-              8.6985,
-              54.8755
-            ],
-            [
-              8.6912,
-              54.8521
-            ],
-            [
-              8.7084,
-              54.8397
-            ],
-            [
-              8.7662,
-              54.8397
-            ],
-            [
-              8.7507,
-              54.8051
-            ],
-            [
-              8.775,
-              54.7918
-            ],
-            [
-              8.8187,
-              54.7816
-            ],
-            [
-              8.8011,
-              54.7631
-            ],
-            [
-              8.8106,
-              54.7593
-            ],
-            [
-              8.7904,
-              54.7291
-            ],
-            [
-              8.832,
-              54.7158
-            ],
-            [
-              8.8608,
-              54.7342
-            ],
-            [
-              8.8406,
-              54.7178
-            ],
-            [
-              8.8487,
-              54.7108
-            ],
-            [
-              8.8543,
-              54.6956
-            ],
-            [
-              8.8393,
-              54.6869
-            ],
-            [
-              8.8575,
-              54.6828
-            ],
-            [
-              8.8493,
-              54.6718
-            ],
-            [
-              8.8569,
-              54.6619
-            ],
-            [
-              8.8621,
-              54.6552
-            ],
-            [
-              8.8687,
-              54.651
-            ],
-            [
-              8.9056,
-              54.6258
-            ],
-            [
-              8.9353,
-              54.6156
-            ],
-            [
-              8.9581,
-              54.5969
-            ],
-            [
-              8.9608,
-              54.5873
-            ],
-            [
-              8.9695,
-              54.5743
-            ],
-            [
-              8.9553,
-              54.5661
-            ],
-            [
-              8.9857,
-              54.5589
-            ],
-            [
-              8.9988,
-              54.5661
-            ],
-            [
-              9.0125,
-              54.5666
-            ],
-            [
-              9.0401,
-              54.5641
-            ],
-            [
-              9.0425,
-              54.5533
-            ],
-            [
-              9.0433,
-              54.5487
-            ],
-            [
-              9.0581,
-              54.5424
-            ],
-            [
-              9.0603,
-              54.5348
-            ],
-            [
-              9.0494,
-              54.5328
-            ],
-            [
-              9.0472,
-              54.5057
-            ],
-            [
-              9.0472,
-              54.5011
-            ],
-            [
-              9.1017,
-              54.5041
-            ],
-            [
-              9.0936,
-              54.4816
-            ],
-            [
-              9.0849,
-              54.4586
-            ],
-            [
-              9.0472,
-              54.4707
-            ],
-            [
-              9.0295,
-              54.4642
-            ],
-            [
-              9.0297,
-              54.4686
-            ],
-            [
-              9.0171,
-              54.4526
-            ],
-            [
-              9.023,
-              54.4447
-            ],
-            [
-              9.0086,
-              54.4362
-            ],
-            [
-              9.0173,
-              54.4282
-            ],
-            [
-              9.044,
-              54.4344
-            ],
-            [
-              9.0573,
-              54.4274
-            ],
-            [
-              9.0595,
-              54.4149
-            ],
-            [
-              9.0326,
-              54.3966
-            ],
-            [
-              9.0338,
-              54.3813
-            ],
-            [
-              9.0232,
-              54.3775
-            ],
-            [
-              9.0016,
-              54.3743
-            ],
-            [
-              8.9816,
-              54.3566
-            ],
-            [
-              8.9956,
-              54.3358
-            ],
-            [
-              8.9796,
-              54.3243
-            ],
-            [
-              8.965,
-              54.3159
-            ],
-            [
-              8.907,
-              54.2876
-            ],
-            [
-              8.8981,
-              54.2634
-            ],
-            [
-              8.8455,
-              54.2664
-            ],
-            [
-              8.8376,
-              54.2824
-            ],
-            [
-              8.8222,
-              54.2905
-            ],
-            [
-              8.7829,
-              54.2803
-            ],
-            [
-              8.7703,
-              54.2814
-            ],
-            [
-              8.7676,
-              54.2884
-            ],
-            [
-              8.7384,
-              54.2937
-            ],
-            [
-              8.7222,
-              54.2887
-            ],
-            [
-              8.7065,
-              54.293
-            ],
-            [
-              8.699,
-              54.2828
-            ],
-            [
-              8.6748,
-              54.2785
-            ],
-            [
-              8.6095,
-              54.308
-            ],
-            [
-              8.5988,
-              54.3215
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#7",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#7",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.5287,
-        "MaxLongitude": 8.6592,
-        "MinLatitude": 54.6176,
-        "MaxLatitude": 54.6523,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.5287,
-              54.6261
-            ],
-            [
-              8.5403,
-              54.6361
-            ],
-            [
-              8.6433,
-              54.6523
-            ],
-            [
-              8.6592,
-              54.6459
-            ],
-            [
-              8.6323,
-              54.637
-            ],
-            [
-              8.5842,
-              54.6336
-            ],
-            [
-              8.5488,
-              54.6176
-            ],
-            [
-              8.5287,
-              54.6261
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#8",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#8",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.588,
-        "MaxLongitude": 8.7051,
-        "MinLatitude": 54.4886,
-        "MaxLatitude": 54.5575,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.588,
-              54.5136
-            ],
-            [
-              8.5899,
-              54.5322
-            ],
-            [
-              8.6328,
-              54.5377
-            ],
-            [
-              8.6428,
-              54.5466
-            ],
-            [
-              8.7051,
-              54.5575
-            ],
-            [
-              8.6966,
-              54.5152
-            ],
-            [
-              8.6697,
-              54.4941
-            ],
-            [
-              8.6246,
-              54.4886
-            ],
-            [
-              8.588,
-              54.5136
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#9",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#9",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.6813,
-        "MaxLongitude": 8.7131,
-        "MinLatitude": 54.6709,
-        "MaxLatitude": 54.6806,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.6813,
-              54.6757
-            ],
-            [
-              8.6979,
-              54.6806
-            ],
-            [
-              8.7131,
-              54.6776
-            ],
-            [
-              8.7068,
-              54.6716
-            ],
-            [
-              8.6869,
-              54.6709
-            ],
-            [
-              8.6813,
-              54.6757
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#10",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#10",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 8.5086,
-        "MaxLongitude": 8.5729,
-        "MinLatitude": 54.5575,
-        "MaxLatitude": 54.5794,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.5086,
-              54.5745
-            ],
-            [
-              8.5152,
-              54.5794
-            ],
-            [
-              8.5307,
-              54.5756
-            ],
-            [
-              8.5562,
-              54.5786
-            ],
-            [
-              8.5729,
-              54.5592
-            ],
-            [
-              8.5463,
-              54.5575
-            ],
-            [
-              8.5086,
-              54.5745
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#11",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL#11",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792841580000.129c2c38-eb3a-41ef-80a5-931bd0391a64.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANARTIGEN BÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T13:33:00+02:00",
-        "Ablauf": "2026-10-25T06:00:00+01:00",
-        "MinLongitude": 7.8694,
-        "MaxLongitude": 7.9192,
-        "MinLatitude": 54.1723,
-        "MaxLatitude": 54.1895,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.8694,
-              54.1879
-            ],
-            [
-              7.9018,
-              54.1872
-            ],
-            [
-              7.9192,
-              54.1895
-            ],
-            [
-              7.918,
-              54.1812
-            ],
-            [
-              7.9091,
-              54.1803
-            ],
-            [
-              7.8891,
-              54.1723
-            ],
-            [
-              7.8694,
-              54.1879
             ]
           ]
         ]

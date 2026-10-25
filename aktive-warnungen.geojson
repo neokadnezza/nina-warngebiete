@@ -27683,6 +27683,4084 @@
     },
     {
       "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#1",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#1",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.4022,
+        "MaxLongitude": 10.4478,
+        "MinLatitude": 53.4334,
+        "MaxLatitude": 53.4674,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4022,
+              53.455
+            ],
+            [
+              10.4115,
+              53.4565
+            ],
+            [
+              10.4116,
+              53.4593
+            ],
+            [
+              10.4186,
+              53.4579
+            ],
+            [
+              10.4211,
+              53.4597
+            ],
+            [
+              10.4186,
+              53.4657
+            ],
+            [
+              10.4275,
+              53.4674
+            ],
+            [
+              10.4311,
+              53.4649
+            ],
+            [
+              10.44,
+              53.4644
+            ],
+            [
+              10.4473,
+              53.4579
+            ],
+            [
+              10.4478,
+              53.4537
+            ],
+            [
+              10.4423,
+              53.4496
+            ],
+            [
+              10.4342,
+              53.4505
+            ],
+            [
+              10.4257,
+              53.4388
+            ],
+            [
+              10.4183,
+              53.4334
+            ],
+            [
+              10.4044,
+              53.4375
+            ],
+            [
+              10.4022,
+              53.455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#2",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#2",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.2985,
+        "MaxLongitude": 10.3572,
+        "MinLatitude": 53.4584,
+        "MaxLatitude": 53.4981,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2985,
+              53.4875
+            ],
+            [
+              10.3066,
+              53.4954
+            ],
+            [
+              10.3133,
+              53.4938
+            ],
+            [
+              10.3144,
+              53.4977
+            ],
+            [
+              10.322,
+              53.4981
+            ],
+            [
+              10.3308,
+              53.492
+            ],
+            [
+              10.3361,
+              53.4924
+            ],
+            [
+              10.3336,
+              53.491
+            ],
+            [
+              10.3432,
+              53.4912
+            ],
+            [
+              10.3428,
+              53.4876
+            ],
+            [
+              10.3526,
+              53.4866
+            ],
+            [
+              10.3493,
+              53.4788
+            ],
+            [
+              10.3555,
+              53.4762
+            ],
+            [
+              10.3572,
+              53.4602
+            ],
+            [
+              10.3498,
+              53.4605
+            ],
+            [
+              10.3474,
+              53.4584
+            ],
+            [
+              10.3384,
+              53.46
+            ],
+            [
+              10.332,
+              53.461
+            ],
+            [
+              10.3402,
+              53.4639
+            ],
+            [
+              10.3319,
+              53.4643
+            ],
+            [
+              10.339,
+              53.4761
+            ],
+            [
+              10.3326,
+              53.4766
+            ],
+            [
+              10.332,
+              53.4731
+            ],
+            [
+              10.3242,
+              53.4733
+            ],
+            [
+              10.3058,
+              53.4815
+            ],
+            [
+              10.3037,
+              53.4856
+            ],
+            [
+              10.2985,
+              53.4875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#3",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#3",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.5537,
+        "MaxLongitude": 10.5859,
+        "MinLatitude": 53.3766,
+        "MaxLatitude": 53.4072,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5537,
+              53.3897
+            ],
+            [
+              10.5594,
+              53.4064
+            ],
+            [
+              10.5635,
+              53.4072
+            ],
+            [
+              10.5732,
+              53.4056
+            ],
+            [
+              10.5859,
+              53.3975
+            ],
+            [
+              10.583,
+              53.391
+            ],
+            [
+              10.5852,
+              53.3817
+            ],
+            [
+              10.5802,
+              53.3786
+            ],
+            [
+              10.5689,
+              53.3766
+            ],
+            [
+              10.5689,
+              53.3798
+            ],
+            [
+              10.5634,
+              53.3785
+            ],
+            [
+              10.5647,
+              53.3803
+            ],
+            [
+              10.5595,
+              53.38
+            ],
+            [
+              10.5537,
+              53.3897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#4",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#4",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.057,
+        "MaxLongitude": 10.1712,
+        "MinLatitude": 53.3415,
+        "MaxLatitude": 53.4274,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.057,
+              53.364
+            ],
+            [
+              10.0607,
+              53.3672
+            ],
+            [
+              10.0679,
+              53.3661
+            ],
+            [
+              10.0728,
+              53.3684
+            ],
+            [
+              10.0742,
+              53.3723
+            ],
+            [
+              10.0728,
+              53.3765
+            ],
+            [
+              10.0682,
+              53.3763
+            ],
+            [
+              10.0683,
+              53.385
+            ],
+            [
+              10.0688,
+              53.3979
+            ],
+            [
+              10.0733,
+              53.4057
+            ],
+            [
+              10.0875,
+              53.4072
+            ],
+            [
+              10.1075,
+              53.4274
+            ],
+            [
+              10.1165,
+              53.4242
+            ],
+            [
+              10.1345,
+              53.4229
+            ],
+            [
+              10.146,
+              53.4151
+            ],
+            [
+              10.1445,
+              53.4058
+            ],
+            [
+              10.1217,
+              53.3875
+            ],
+            [
+              10.1414,
+              53.3766
+            ],
+            [
+              10.1404,
+              53.3725
+            ],
+            [
+              10.1708,
+              53.3661
+            ],
+            [
+              10.1685,
+              53.3631
+            ],
+            [
+              10.1712,
+              53.3617
+            ],
+            [
+              10.1619,
+              53.3566
+            ],
+            [
+              10.1456,
+              53.3542
+            ],
+            [
+              10.1447,
+              53.35
+            ],
+            [
+              10.1257,
+              53.3509
+            ],
+            [
+              10.1163,
+              53.3432
+            ],
+            [
+              10.1109,
+              53.3446
+            ],
+            [
+              10.1057,
+              53.3415
+            ],
+            [
+              10.1002,
+              53.3422
+            ],
+            [
+              10.0894,
+              53.3503
+            ],
+            [
+              10.064,
+              53.3575
+            ],
+            [
+              10.057,
+              53.364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#5",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#5",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 9.9217,
+        "MaxLongitude": 10.1075,
+        "MinLatitude": 53.3164,
+        "MaxLatitude": 53.4638,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.9217,
+              53.384
+            ],
+            [
+              9.9225,
+              53.3875
+            ],
+            [
+              9.9362,
+              53.3884
+            ],
+            [
+              9.9484,
+              53.3983
+            ],
+            [
+              9.9415,
+              53.3984
+            ],
+            [
+              9.9431,
+              53.413
+            ],
+            [
+              9.9316,
+              53.4158
+            ],
+            [
+              9.9293,
+              53.4141
+            ],
+            [
+              9.9307,
+              53.418
+            ],
+            [
+              9.9279,
+              53.4192
+            ],
+            [
+              9.9323,
+              53.4212
+            ],
+            [
+              9.942,
+              53.4211
+            ],
+            [
+              9.9492,
+              53.4309
+            ],
+            [
+              9.9633,
+              53.4273
+            ],
+            [
+              9.961,
+              53.4241
+            ],
+            [
+              9.9644,
+              53.4222
+            ],
+            [
+              9.9709,
+              53.4238
+            ],
+            [
+              9.9755,
+              53.4215
+            ],
+            [
+              9.9776,
+              53.4192
+            ],
+            [
+              9.9749,
+              53.4147
+            ],
+            [
+              9.9844,
+              53.4154
+            ],
+            [
+              9.989,
+              53.4206
+            ],
+            [
+              9.993,
+              53.4201
+            ],
+            [
+              9.9964,
+              53.4261
+            ],
+            [
+              10.0016,
+              53.4248
+            ],
+            [
+              10.0098,
+              53.4295
+            ],
+            [
+              10.0186,
+              53.4293
+            ],
+            [
+              10.0293,
+              53.4352
+            ],
+            [
+              10.0147,
+              53.4421
+            ],
+            [
+              10.0212,
+              53.4468
+            ],
+            [
+              10.0323,
+              53.4441
+            ],
+            [
+              10.0359,
+              53.447
+            ],
+            [
+              10.0457,
+              53.4467
+            ],
+            [
+              10.0493,
+              53.4497
+            ],
+            [
+              10.0411,
+              53.4515
+            ],
+            [
+              10.0441,
+              53.4549
+            ],
+            [
+              10.0422,
+              53.4564
+            ],
+            [
+              10.0513,
+              53.4638
+            ],
+            [
+              10.0846,
+              53.4504
+            ],
+            [
+              10.1075,
+              53.4274
+            ],
+            [
+              10.0875,
+              53.4072
+            ],
+            [
+              10.0733,
+              53.4057
+            ],
+            [
+              10.0688,
+              53.3979
+            ],
+            [
+              10.0683,
+              53.385
+            ],
+            [
+              10.0682,
+              53.3763
+            ],
+            [
+              10.0728,
+              53.3765
+            ],
+            [
+              10.0742,
+              53.3723
+            ],
+            [
+              10.0728,
+              53.3684
+            ],
+            [
+              10.0679,
+              53.3661
+            ],
+            [
+              10.0607,
+              53.3672
+            ],
+            [
+              10.057,
+              53.364
+            ],
+            [
+              10.064,
+              53.3575
+            ],
+            [
+              10.0894,
+              53.3503
+            ],
+            [
+              10.1002,
+              53.3422
+            ],
+            [
+              10.0976,
+              53.3317
+            ],
+            [
+              10.0943,
+              53.3319
+            ],
+            [
+              10.0915,
+              53.3253
+            ],
+            [
+              10.0863,
+              53.3206
+            ],
+            [
+              10.0679,
+              53.3164
+            ],
+            [
+              10.0615,
+              53.3204
+            ],
+            [
+              10.0585,
+              53.3182
+            ],
+            [
+              10.0475,
+              53.3259
+            ],
+            [
+              10.0501,
+              53.3194
+            ],
+            [
+              10.0369,
+              53.3239
+            ],
+            [
+              9.9985,
+              53.3281
+            ],
+            [
+              9.9999,
+              53.3313
+            ],
+            [
+              9.9966,
+              53.3342
+            ],
+            [
+              9.997,
+              53.3358
+            ],
+            [
+              10.0144,
+              53.356
+            ],
+            [
+              10.0107,
+              53.3586
+            ],
+            [
+              9.9985,
+              53.3554
+            ],
+            [
+              9.9955,
+              53.358
+            ],
+            [
+              9.9792,
+              53.3537
+            ],
+            [
+              9.9677,
+              53.354
+            ],
+            [
+              9.9638,
+              53.357
+            ],
+            [
+              9.9557,
+              53.3543
+            ],
+            [
+              9.9565,
+              53.3631
+            ],
+            [
+              9.9493,
+              53.3792
+            ],
+            [
+              9.9398,
+              53.3821
+            ],
+            [
+              9.9262,
+              53.3811
+            ],
+            [
+              9.9268,
+              53.3832
+            ],
+            [
+              9.9217,
+              53.384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#6",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#6",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.4299,
+        "MaxLongitude": 10.5265,
+        "MinLatitude": 53.371,
+        "MaxLatitude": 53.4106,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4299,
+              53.3982
+            ],
+            [
+              10.432,
+              53.4031
+            ],
+            [
+              10.4592,
+              53.4047
+            ],
+            [
+              10.4607,
+              53.4087
+            ],
+            [
+              10.4663,
+              53.4084
+            ],
+            [
+              10.4664,
+              53.4106
+            ],
+            [
+              10.4759,
+              53.4086
+            ],
+            [
+              10.4757,
+              53.3993
+            ],
+            [
+              10.4877,
+              53.3977
+            ],
+            [
+              10.4888,
+              53.4007
+            ],
+            [
+              10.4993,
+              53.4015
+            ],
+            [
+              10.5101,
+              53.4002
+            ],
+            [
+              10.5216,
+              53.3951
+            ],
+            [
+              10.5211,
+              53.3928
+            ],
+            [
+              10.5217,
+              53.387
+            ],
+            [
+              10.5261,
+              53.3869
+            ],
+            [
+              10.5265,
+              53.3846
+            ],
+            [
+              10.5169,
+              53.3792
+            ],
+            [
+              10.5173,
+              53.371
+            ],
+            [
+              10.4989,
+              53.3745
+            ],
+            [
+              10.4692,
+              53.3858
+            ],
+            [
+              10.4299,
+              53.3982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#7",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#7",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.2447,
+        "MaxLongitude": 10.3559,
+        "MinLatitude": 53.35,
+        "MaxLatitude": 53.4335,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2447,
+              53.3982
+            ],
+            [
+              10.2594,
+              53.4183
+            ],
+            [
+              10.2848,
+              53.4246
+            ],
+            [
+              10.3081,
+              53.4335
+            ],
+            [
+              10.3308,
+              53.4248
+            ],
+            [
+              10.3559,
+              53.4261
+            ],
+            [
+              10.334,
+              53.4221
+            ],
+            [
+              10.3265,
+              53.4147
+            ],
+            [
+              10.3242,
+              53.4155
+            ],
+            [
+              10.3237,
+              53.406
+            ],
+            [
+              10.3201,
+              53.406
+            ],
+            [
+              10.3197,
+              53.401
+            ],
+            [
+              10.3246,
+              53.4009
+            ],
+            [
+              10.3221,
+              53.3944
+            ],
+            [
+              10.327,
+              53.3933
+            ],
+            [
+              10.3216,
+              53.3877
+            ],
+            [
+              10.3321,
+              53.3858
+            ],
+            [
+              10.3276,
+              53.3779
+            ],
+            [
+              10.3224,
+              53.3789
+            ],
+            [
+              10.3201,
+              53.37
+            ],
+            [
+              10.3152,
+              53.37
+            ],
+            [
+              10.3158,
+              53.3603
+            ],
+            [
+              10.3234,
+              53.3596
+            ],
+            [
+              10.3216,
+              53.3507
+            ],
+            [
+              10.3128,
+              53.35
+            ],
+            [
+              10.3073,
+              53.351
+            ],
+            [
+              10.3069,
+              53.3532
+            ],
+            [
+              10.2841,
+              53.3541
+            ],
+            [
+              10.2767,
+              53.3563
+            ],
+            [
+              10.2819,
+              53.3637
+            ],
+            [
+              10.2763,
+              53.3688
+            ],
+            [
+              10.2808,
+              53.373
+            ],
+            [
+              10.2782,
+              53.3751
+            ],
+            [
+              10.286,
+              53.3772
+            ],
+            [
+              10.2847,
+              53.3809
+            ],
+            [
+              10.2902,
+              53.3849
+            ],
+            [
+              10.2905,
+              53.391
+            ],
+            [
+              10.279,
+              53.3926
+            ],
+            [
+              10.2784,
+              53.3955
+            ],
+            [
+              10.2602,
+              53.3885
+            ],
+            [
+              10.2561,
+              53.3906
+            ],
+            [
+              10.256,
+              53.3941
+            ],
+            [
+              10.2535,
+              53.3919
+            ],
+            [
+              10.2447,
+              53.3982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#8",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#8",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.3079,
+        "MaxLongitude": 10.4664,
+        "MinLatitude": 53.3982,
+        "MaxLatitude": 53.4607,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3079,
+              53.4348
+            ],
+            [
+              10.3182,
+              53.4353
+            ],
+            [
+              10.3155,
+              53.4411
+            ],
+            [
+              10.326,
+              53.4496
+            ],
+            [
+              10.3324,
+              53.4533
+            ],
+            [
+              10.3455,
+              53.4509
+            ],
+            [
+              10.3478,
+              53.4531
+            ],
+            [
+              10.3383,
+              53.4577
+            ],
+            [
+              10.3384,
+              53.46
+            ],
+            [
+              10.3474,
+              53.4584
+            ],
+            [
+              10.3498,
+              53.4605
+            ],
+            [
+              10.3572,
+              53.4602
+            ],
+            [
+              10.3679,
+              53.4576
+            ],
+            [
+              10.3821,
+              53.4607
+            ],
+            [
+              10.3914,
+              53.4598
+            ],
+            [
+              10.3931,
+              53.4564
+            ],
+            [
+              10.4022,
+              53.455
+            ],
+            [
+              10.4044,
+              53.4375
+            ],
+            [
+              10.4183,
+              53.4334
+            ],
+            [
+              10.4257,
+              53.4388
+            ],
+            [
+              10.4342,
+              53.4357
+            ],
+            [
+              10.4343,
+              53.4321
+            ],
+            [
+              10.4402,
+              53.4339
+            ],
+            [
+              10.4451,
+              53.4328
+            ],
+            [
+              10.4429,
+              53.4293
+            ],
+            [
+              10.4511,
+              53.4268
+            ],
+            [
+              10.4471,
+              53.4235
+            ],
+            [
+              10.4589,
+              53.4181
+            ],
+            [
+              10.4577,
+              53.416
+            ],
+            [
+              10.4664,
+              53.4106
+            ],
+            [
+              10.4663,
+              53.4084
+            ],
+            [
+              10.4607,
+              53.4087
+            ],
+            [
+              10.4592,
+              53.4047
+            ],
+            [
+              10.432,
+              53.4031
+            ],
+            [
+              10.4299,
+              53.3982
+            ],
+            [
+              10.3979,
+              53.4115
+            ],
+            [
+              10.3759,
+              53.4247
+            ],
+            [
+              10.3559,
+              53.4261
+            ],
+            [
+              10.3308,
+              53.4248
+            ],
+            [
+              10.3081,
+              53.4335
+            ],
+            [
+              10.3079,
+              53.4348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#9",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#9",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.4935,
+        "MaxLongitude": 10.5343,
+        "MinLatitude": 53.4002,
+        "MaxLatitude": 53.4352,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4935,
+              53.4119
+            ],
+            [
+              10.5008,
+              53.4337
+            ],
+            [
+              10.5113,
+              53.4352
+            ],
+            [
+              10.5287,
+              53.4331
+            ],
+            [
+              10.5343,
+              53.4327
+            ],
+            [
+              10.5313,
+              53.4276
+            ],
+            [
+              10.5238,
+              53.4247
+            ],
+            [
+              10.5139,
+              53.4117
+            ],
+            [
+              10.516,
+              53.4057
+            ],
+            [
+              10.5101,
+              53.4002
+            ],
+            [
+              10.4993,
+              53.4015
+            ],
+            [
+              10.4935,
+              53.4119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#10",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#10",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.4471,
+        "MaxLongitude": 10.5008,
+        "MinLatitude": 53.3977,
+        "MaxLatitude": 53.4337,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4471,
+              53.4235
+            ],
+            [
+              10.4511,
+              53.4268
+            ],
+            [
+              10.4621,
+              53.4324
+            ],
+            [
+              10.4604,
+              53.4301
+            ],
+            [
+              10.4644,
+              53.4295
+            ],
+            [
+              10.4803,
+              53.4329
+            ],
+            [
+              10.5008,
+              53.4337
+            ],
+            [
+              10.4935,
+              53.4119
+            ],
+            [
+              10.4993,
+              53.4015
+            ],
+            [
+              10.4888,
+              53.4007
+            ],
+            [
+              10.4877,
+              53.3977
+            ],
+            [
+              10.4757,
+              53.3993
+            ],
+            [
+              10.4759,
+              53.4086
+            ],
+            [
+              10.4664,
+              53.4106
+            ],
+            [
+              10.4577,
+              53.416
+            ],
+            [
+              10.4589,
+              53.4181
+            ],
+            [
+              10.4471,
+              53.4235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#11",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#11",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.3152,
+        "MaxLongitude": 10.3979,
+        "MinLatitude": 53.3588,
+        "MaxLatitude": 53.4261,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3152,
+              53.37
+            ],
+            [
+              10.3201,
+              53.37
+            ],
+            [
+              10.3224,
+              53.3789
+            ],
+            [
+              10.3276,
+              53.3779
+            ],
+            [
+              10.3321,
+              53.3858
+            ],
+            [
+              10.3216,
+              53.3877
+            ],
+            [
+              10.327,
+              53.3933
+            ],
+            [
+              10.3221,
+              53.3944
+            ],
+            [
+              10.3246,
+              53.4009
+            ],
+            [
+              10.3197,
+              53.401
+            ],
+            [
+              10.3201,
+              53.406
+            ],
+            [
+              10.3237,
+              53.406
+            ],
+            [
+              10.3242,
+              53.4155
+            ],
+            [
+              10.3265,
+              53.4147
+            ],
+            [
+              10.334,
+              53.4221
+            ],
+            [
+              10.3559,
+              53.4261
+            ],
+            [
+              10.3759,
+              53.4247
+            ],
+            [
+              10.3979,
+              53.4115
+            ],
+            [
+              10.3692,
+              53.3897
+            ],
+            [
+              10.3706,
+              53.3864
+            ],
+            [
+              10.3754,
+              53.3869
+            ],
+            [
+              10.3773,
+              53.3844
+            ],
+            [
+              10.3635,
+              53.3834
+            ],
+            [
+              10.3632,
+              53.381
+            ],
+            [
+              10.3741,
+              53.375
+            ],
+            [
+              10.3714,
+              53.3753
+            ],
+            [
+              10.3706,
+              53.373
+            ],
+            [
+              10.3763,
+              53.372
+            ],
+            [
+              10.3703,
+              53.3705
+            ],
+            [
+              10.3643,
+              53.371
+            ],
+            [
+              10.3626,
+              53.3683
+            ],
+            [
+              10.3724,
+              53.3677
+            ],
+            [
+              10.3714,
+              53.3637
+            ],
+            [
+              10.3665,
+              53.363
+            ],
+            [
+              10.366,
+              53.3602
+            ],
+            [
+              10.3609,
+              53.3609
+            ],
+            [
+              10.36,
+              53.3588
+            ],
+            [
+              10.3234,
+              53.3596
+            ],
+            [
+              10.3158,
+              53.3603
+            ],
+            [
+              10.3152,
+              53.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#12",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#12",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.5828,
+        "MaxLongitude": 10.6214,
+        "MinLatitude": 53.3612,
+        "MaxLatitude": 53.418,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5828,
+              53.3679
+            ],
+            [
+              10.5889,
+              53.3706
+            ],
+            [
+              10.5872,
+              53.3729
+            ],
+            [
+              10.592,
+              53.3729
+            ],
+            [
+              10.5847,
+              53.3749
+            ],
+            [
+              10.5885,
+              53.382
+            ],
+            [
+              10.5852,
+              53.3817
+            ],
+            [
+              10.583,
+              53.391
+            ],
+            [
+              10.5859,
+              53.3975
+            ],
+            [
+              10.5885,
+              53.4018
+            ],
+            [
+              10.592,
+              53.4009
+            ],
+            [
+              10.5943,
+              53.4029
+            ],
+            [
+              10.6018,
+              53.418
+            ],
+            [
+              10.6178,
+              53.4162
+            ],
+            [
+              10.6189,
+              53.4125
+            ],
+            [
+              10.6167,
+              53.4051
+            ],
+            [
+              10.621,
+              53.4041
+            ],
+            [
+              10.6186,
+              53.3988
+            ],
+            [
+              10.6214,
+              53.3986
+            ],
+            [
+              10.6169,
+              53.3846
+            ],
+            [
+              10.5991,
+              53.3778
+            ],
+            [
+              10.5937,
+              53.3679
+            ],
+            [
+              10.595,
+              53.3639
+            ],
+            [
+              10.5875,
+              53.3612
+            ],
+            [
+              10.5828,
+              53.3679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#13",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#13",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.3493,
+        "MaxLongitude": 10.3953,
+        "MinLatitude": 53.4576,
+        "MaxLatitude": 53.4866,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3493,
+              53.4788
+            ],
+            [
+              10.3526,
+              53.4866
+            ],
+            [
+              10.3711,
+              53.4847
+            ],
+            [
+              10.3806,
+              53.4806
+            ],
+            [
+              10.3898,
+              53.4829
+            ],
+            [
+              10.3927,
+              53.4795
+            ],
+            [
+              10.3953,
+              53.4718
+            ],
+            [
+              10.3914,
+              53.4598
+            ],
+            [
+              10.3821,
+              53.4607
+            ],
+            [
+              10.3679,
+              53.4576
+            ],
+            [
+              10.3572,
+              53.4602
+            ],
+            [
+              10.3555,
+              53.4762
+            ],
+            [
+              10.3493,
+              53.4788
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#14",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#14",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.3632,
+        "MaxLongitude": 10.4715,
+        "MinLatitude": 53.3554,
+        "MaxLatitude": 53.4115,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3632,
+              53.381
+            ],
+            [
+              10.3635,
+              53.3834
+            ],
+            [
+              10.3773,
+              53.3844
+            ],
+            [
+              10.3754,
+              53.3869
+            ],
+            [
+              10.3706,
+              53.3864
+            ],
+            [
+              10.3692,
+              53.3897
+            ],
+            [
+              10.3979,
+              53.4115
+            ],
+            [
+              10.4299,
+              53.3982
+            ],
+            [
+              10.4692,
+              53.3858
+            ],
+            [
+              10.4715,
+              53.3802
+            ],
+            [
+              10.457,
+              53.3685
+            ],
+            [
+              10.4437,
+              53.3674
+            ],
+            [
+              10.443,
+              53.3616
+            ],
+            [
+              10.4356,
+              53.3641
+            ],
+            [
+              10.4324,
+              53.3606
+            ],
+            [
+              10.4406,
+              53.3578
+            ],
+            [
+              10.4398,
+              53.3554
+            ],
+            [
+              10.4286,
+              53.3556
+            ],
+            [
+              10.4249,
+              53.3585
+            ],
+            [
+              10.4228,
+              53.3559
+            ],
+            [
+              10.4037,
+              53.3602
+            ],
+            [
+              10.4066,
+              53.3666
+            ],
+            [
+              10.3902,
+              53.3682
+            ],
+            [
+              10.3893,
+              53.3657
+            ],
+            [
+              10.3854,
+              53.3664
+            ],
+            [
+              10.3864,
+              53.3644
+            ],
+            [
+              10.3703,
+              53.3705
+            ],
+            [
+              10.3763,
+              53.372
+            ],
+            [
+              10.3706,
+              53.373
+            ],
+            [
+              10.3714,
+              53.3753
+            ],
+            [
+              10.3741,
+              53.375
+            ],
+            [
+              10.3632,
+              53.381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#15",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#15",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.5169,
+        "MaxLongitude": 10.592,
+        "MinLatitude": 53.3602,
+        "MaxLatitude": 53.3928,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5169,
+              53.3792
+            ],
+            [
+              10.5265,
+              53.3846
+            ],
+            [
+              10.5261,
+              53.3869
+            ],
+            [
+              10.5217,
+              53.387
+            ],
+            [
+              10.5211,
+              53.3928
+            ],
+            [
+              10.5537,
+              53.3897
+            ],
+            [
+              10.5595,
+              53.38
+            ],
+            [
+              10.5647,
+              53.3803
+            ],
+            [
+              10.5634,
+              53.3785
+            ],
+            [
+              10.5689,
+              53.3798
+            ],
+            [
+              10.5689,
+              53.3766
+            ],
+            [
+              10.5802,
+              53.3786
+            ],
+            [
+              10.5852,
+              53.3817
+            ],
+            [
+              10.5885,
+              53.382
+            ],
+            [
+              10.5847,
+              53.3749
+            ],
+            [
+              10.592,
+              53.3729
+            ],
+            [
+              10.5872,
+              53.3729
+            ],
+            [
+              10.5889,
+              53.3706
+            ],
+            [
+              10.5828,
+              53.3679
+            ],
+            [
+              10.5875,
+              53.3612
+            ],
+            [
+              10.5743,
+              53.3602
+            ],
+            [
+              10.5567,
+              53.3685
+            ],
+            [
+              10.5264,
+              53.3702
+            ],
+            [
+              10.5173,
+              53.371
+            ],
+            [
+              10.5169,
+              53.3792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#16",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#16",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.5101,
+        "MaxLongitude": 10.5598,
+        "MinLatitude": 53.3897,
+        "MaxLatitude": 53.4277,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5101,
+              53.4002
+            ],
+            [
+              10.516,
+              53.4057
+            ],
+            [
+              10.5139,
+              53.4117
+            ],
+            [
+              10.5238,
+              53.4247
+            ],
+            [
+              10.5313,
+              53.4276
+            ],
+            [
+              10.5382,
+              53.4277
+            ],
+            [
+              10.5415,
+              53.4249
+            ],
+            [
+              10.542,
+              53.4115
+            ],
+            [
+              10.5477,
+              53.4084
+            ],
+            [
+              10.5598,
+              53.4084
+            ],
+            [
+              10.5594,
+              53.4064
+            ],
+            [
+              10.5537,
+              53.3897
+            ],
+            [
+              10.5211,
+              53.3928
+            ],
+            [
+              10.5216,
+              53.3951
+            ],
+            [
+              10.5101,
+              53.4002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#17",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#17",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.2351,
+        "MaxLongitude": 10.2875,
+        "MinLatitude": 53.4795,
+        "MaxLatitude": 53.509,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2351,
+              53.4909
+            ],
+            [
+              10.2367,
+              53.4964
+            ],
+            [
+              10.2414,
+              53.4999
+            ],
+            [
+              10.2387,
+              53.5039
+            ],
+            [
+              10.2427,
+              53.5084
+            ],
+            [
+              10.2476,
+              53.5088
+            ],
+            [
+              10.2543,
+              53.5055
+            ],
+            [
+              10.2673,
+              53.5066
+            ],
+            [
+              10.2683,
+              53.509
+            ],
+            [
+              10.2832,
+              53.4989
+            ],
+            [
+              10.2875,
+              53.4964
+            ],
+            [
+              10.276,
+              53.4935
+            ],
+            [
+              10.2695,
+              53.4851
+            ],
+            [
+              10.2552,
+              53.4844
+            ],
+            [
+              10.2493,
+              53.4795
+            ],
+            [
+              10.2384,
+              53.4833
+            ],
+            [
+              10.2351,
+              53.4909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#18",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#18",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.4257,
+        "MaxLongitude": 10.4692,
+        "MinLatitude": 53.4268,
+        "MaxLatitude": 53.4537,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4257,
+              53.4388
+            ],
+            [
+              10.4342,
+              53.4505
+            ],
+            [
+              10.4423,
+              53.4496
+            ],
+            [
+              10.4478,
+              53.4537
+            ],
+            [
+              10.4638,
+              53.4468
+            ],
+            [
+              10.4692,
+              53.4469
+            ],
+            [
+              10.4621,
+              53.4324
+            ],
+            [
+              10.4511,
+              53.4268
+            ],
+            [
+              10.4429,
+              53.4293
+            ],
+            [
+              10.4451,
+              53.4328
+            ],
+            [
+              10.4402,
+              53.4339
+            ],
+            [
+              10.4343,
+              53.4321
+            ],
+            [
+              10.4342,
+              53.4357
+            ],
+            [
+              10.4257,
+              53.4388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#19",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#19",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.2493,
+        "MaxLongitude": 10.306,
+        "MinLatitude": 53.4553,
+        "MaxLatitude": 53.4964,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2493,
+              53.4795
+            ],
+            [
+              10.2552,
+              53.4844
+            ],
+            [
+              10.2695,
+              53.4851
+            ],
+            [
+              10.276,
+              53.4935
+            ],
+            [
+              10.2875,
+              53.4964
+            ],
+            [
+              10.2922,
+              53.495
+            ],
+            [
+              10.2936,
+              53.4893
+            ],
+            [
+              10.2985,
+              53.4875
+            ],
+            [
+              10.3037,
+              53.4856
+            ],
+            [
+              10.3058,
+              53.4815
+            ],
+            [
+              10.2925,
+              53.4767
+            ],
+            [
+              10.2953,
+              53.4707
+            ],
+            [
+              10.2915,
+              53.4658
+            ],
+            [
+              10.306,
+              53.459
+            ],
+            [
+              10.3015,
+              53.4559
+            ],
+            [
+              10.2899,
+              53.4553
+            ],
+            [
+              10.2693,
+              53.4641
+            ],
+            [
+              10.2726,
+              53.4679
+            ],
+            [
+              10.2652,
+              53.4698
+            ],
+            [
+              10.2643,
+              53.4751
+            ],
+            [
+              10.2598,
+              53.4744
+            ],
+            [
+              10.2579,
+              53.4781
+            ],
+            [
+              10.2521,
+              53.4773
+            ],
+            [
+              10.2493,
+              53.4795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#20",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#20",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.091,
+        "MaxLongitude": 10.3256,
+        "MinLatitude": 53.2868,
+        "MaxLatitude": 53.4183,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.091,
+                53.3227
+              ],
+              [
+                10.0948,
+                53.3245
+              ],
+              [
+                10.0915,
+                53.3253
+              ],
+              [
+                10.0943,
+                53.3319
+              ],
+              [
+                10.0976,
+                53.3317
+              ],
+              [
+                10.1002,
+                53.3422
+              ],
+              [
+                10.1057,
+                53.3415
+              ],
+              [
+                10.1109,
+                53.3446
+              ],
+              [
+                10.1163,
+                53.3432
+              ],
+              [
+                10.1257,
+                53.3509
+              ],
+              [
+                10.1447,
+                53.35
+              ],
+              [
+                10.1456,
+                53.3542
+              ],
+              [
+                10.1619,
+                53.3566
+              ],
+              [
+                10.1712,
+                53.3617
+              ],
+              [
+                10.1685,
+                53.3631
+              ],
+              [
+                10.1708,
+                53.3661
+              ],
+              [
+                10.1404,
+                53.3725
+              ],
+              [
+                10.1414,
+                53.3766
+              ],
+              [
+                10.1217,
+                53.3875
+              ],
+              [
+                10.1445,
+                53.4058
+              ],
+              [
+                10.146,
+                53.4151
+              ],
+              [
+                10.1538,
+                53.4061
+              ],
+              [
+                10.1721,
+                53.397
+              ],
+              [
+                10.1808,
+                53.3964
+              ],
+              [
+                10.1985,
+                53.3986
+              ],
+              [
+                10.2318,
+                53.3951
+              ],
+              [
+                10.2433,
+                53.3994
+              ],
+              [
+                10.253,
+                53.4133
+              ],
+              [
+                10.2594,
+                53.4183
+              ],
+              [
+                10.2447,
+                53.3982
+              ],
+              [
+                10.2535,
+                53.3919
+              ],
+              [
+                10.256,
+                53.3941
+              ],
+              [
+                10.2561,
+                53.3906
+              ],
+              [
+                10.2602,
+                53.3885
+              ],
+              [
+                10.2784,
+                53.3955
+              ],
+              [
+                10.279,
+                53.3926
+              ],
+              [
+                10.2905,
+                53.391
+              ],
+              [
+                10.2902,
+                53.3849
+              ],
+              [
+                10.2847,
+                53.3809
+              ],
+              [
+                10.286,
+                53.3772
+              ],
+              [
+                10.2782,
+                53.3751
+              ],
+              [
+                10.2808,
+                53.373
+              ],
+              [
+                10.2763,
+                53.3688
+              ],
+              [
+                10.2819,
+                53.3637
+              ],
+              [
+                10.2767,
+                53.3563
+              ],
+              [
+                10.2841,
+                53.3541
+              ],
+              [
+                10.3069,
+                53.3532
+              ],
+              [
+                10.3073,
+                53.351
+              ],
+              [
+                10.3128,
+                53.35
+              ],
+              [
+                10.3216,
+                53.3507
+              ],
+              [
+                10.3256,
+                53.3349
+              ],
+              [
+                10.3105,
+                53.3345
+              ],
+              [
+                10.308,
+                53.3315
+              ],
+              [
+                10.2958,
+                53.3333
+              ],
+              [
+                10.2987,
+                53.3318
+              ],
+              [
+                10.2942,
+                53.3279
+              ],
+              [
+                10.2804,
+                53.3306
+              ],
+              [
+                10.2676,
+                53.3298
+              ],
+              [
+                10.2657,
+                53.3338
+              ],
+              [
+                10.2582,
+                53.3311
+              ],
+              [
+                10.2641,
+                53.3232
+              ],
+              [
+                10.2564,
+                53.3148
+              ],
+              [
+                10.252,
+                53.3179
+              ],
+              [
+                10.2356,
+                53.318
+              ],
+              [
+                10.2288,
+                53.3154
+              ],
+              [
+                10.2195,
+                53.3082
+              ],
+              [
+                10.2117,
+                53.2937
+              ],
+              [
+                10.208,
+                53.2868
+              ],
+              [
+                10.1963,
+                53.2873
+              ],
+              [
+                10.1896,
+                53.2878
+              ],
+              [
+                10.1901,
+                53.2911
+              ],
+              [
+                10.1636,
+                53.2945
+              ],
+              [
+                10.1606,
+                53.2965
+              ],
+              [
+                10.1627,
+                53.2983
+              ],
+              [
+                10.1716,
+                53.2967
+              ],
+              [
+                10.1726,
+                53.2992
+              ],
+              [
+                10.1665,
+                53.3026
+              ],
+              [
+                10.1705,
+                53.3093
+              ],
+              [
+                10.1611,
+                53.3124
+              ],
+              [
+                10.1409,
+                53.3132
+              ],
+              [
+                10.141,
+                53.3103
+              ],
+              [
+                10.1316,
+                53.313
+              ],
+              [
+                10.1197,
+                53.3109
+              ],
+              [
+                10.102,
+                53.3145
+              ],
+              [
+                10.092,
+                53.3196
+              ],
+              [
+                10.091,
+                53.3227
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.3011,
+                53.33
+              ],
+              [
+                10.3073,
+                53.3303
+              ],
+              [
+                10.3064,
+                53.3291
+              ],
+              [
+                10.3011,
+                53.33
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#21",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#21",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 9.7267,
+        "MaxLongitude": 9.8624,
+        "MinLatitude": 53.3645,
+        "MaxLatitude": 53.5053,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.7267,
+              53.4226
+            ],
+            [
+              9.7407,
+              53.4379
+            ],
+            [
+              9.7499,
+              53.4393
+            ],
+            [
+              9.752,
+              53.4374
+            ],
+            [
+              9.7659,
+              53.436
+            ],
+            [
+              9.7834,
+              53.4405
+            ],
+            [
+              9.7802,
+              53.4563
+            ],
+            [
+              9.7761,
+              53.4601
+            ],
+            [
+              9.7704,
+              53.4581
+            ],
+            [
+              9.7672,
+              53.4711
+            ],
+            [
+              9.7712,
+              53.472
+            ],
+            [
+              9.7719,
+              53.4808
+            ],
+            [
+              9.7597,
+              53.4809
+            ],
+            [
+              9.7603,
+              53.4842
+            ],
+            [
+              9.7497,
+              53.4849
+            ],
+            [
+              9.7502,
+              53.4899
+            ],
+            [
+              9.7381,
+              53.491
+            ],
+            [
+              9.7469,
+              53.4962
+            ],
+            [
+              9.7653,
+              53.4948
+            ],
+            [
+              9.7689,
+              53.5053
+            ],
+            [
+              9.7845,
+              53.5
+            ],
+            [
+              9.7822,
+              53.4915
+            ],
+            [
+              9.7925,
+              53.4939
+            ],
+            [
+              9.8024,
+              53.4933
+            ],
+            [
+              9.7998,
+              53.4696
+            ],
+            [
+              9.8059,
+              53.4671
+            ],
+            [
+              9.8075,
+              53.4628
+            ],
+            [
+              9.8136,
+              53.4624
+            ],
+            [
+              9.8366,
+              53.4509
+            ],
+            [
+              9.8624,
+              53.4299
+            ],
+            [
+              9.845,
+              53.4178
+            ],
+            [
+              9.8331,
+              53.4181
+            ],
+            [
+              9.8315,
+              53.415
+            ],
+            [
+              9.8418,
+              53.4136
+            ],
+            [
+              9.8433,
+              53.4071
+            ],
+            [
+              9.8308,
+              53.4065
+            ],
+            [
+              9.8275,
+              53.4032
+            ],
+            [
+              9.8087,
+              53.4071
+            ],
+            [
+              9.8044,
+              53.4026
+            ],
+            [
+              9.814,
+              53.3958
+            ],
+            [
+              9.8242,
+              53.3936
+            ],
+            [
+              9.8175,
+              53.3761
+            ],
+            [
+              9.816,
+              53.3645
+            ],
+            [
+              9.8079,
+              53.3646
+            ],
+            [
+              9.8072,
+              53.3684
+            ],
+            [
+              9.8013,
+              53.3676
+            ],
+            [
+              9.7819,
+              53.374
+            ],
+            [
+              9.7827,
+              53.3767
+            ],
+            [
+              9.778,
+              53.3769
+            ],
+            [
+              9.7783,
+              53.3828
+            ],
+            [
+              9.7684,
+              53.3849
+            ],
+            [
+              9.763,
+              53.3938
+            ],
+            [
+              9.7692,
+              53.4003
+            ],
+            [
+              9.7814,
+              53.4037
+            ],
+            [
+              9.7722,
+              53.4066
+            ],
+            [
+              9.7573,
+              53.4193
+            ],
+            [
+              9.7289,
+              53.4223
+            ],
+            [
+              9.7267,
+              53.4226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#22",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#22",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.3914,
+        "MaxLongitude": 10.4355,
+        "MinLatitude": 53.455,
+        "MaxLatitude": 53.4852,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3914,
+              53.4598
+            ],
+            [
+              10.3953,
+              53.4718
+            ],
+            [
+              10.3927,
+              53.4795
+            ],
+            [
+              10.3979,
+              53.484
+            ],
+            [
+              10.413,
+              53.4852
+            ],
+            [
+              10.416,
+              53.483
+            ],
+            [
+              10.4148,
+              53.4793
+            ],
+            [
+              10.4289,
+              53.4764
+            ],
+            [
+              10.4309,
+              53.4739
+            ],
+            [
+              10.435,
+              53.4747
+            ],
+            [
+              10.4355,
+              53.4692
+            ],
+            [
+              10.4275,
+              53.4674
+            ],
+            [
+              10.4186,
+              53.4657
+            ],
+            [
+              10.4211,
+              53.4597
+            ],
+            [
+              10.4186,
+              53.4579
+            ],
+            [
+              10.4116,
+              53.4593
+            ],
+            [
+              10.4115,
+              53.4565
+            ],
+            [
+              10.4022,
+              53.455
+            ],
+            [
+              10.3931,
+              53.4564
+            ],
+            [
+              10.3914,
+              53.4598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#23",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#23",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 10.2899,
+        "MaxLongitude": 10.3478,
+        "MinLatitude": 53.4429,
+        "MaxLatitude": 53.4815,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2899,
+              53.4553
+            ],
+            [
+              10.3015,
+              53.4559
+            ],
+            [
+              10.306,
+              53.459
+            ],
+            [
+              10.2915,
+              53.4658
+            ],
+            [
+              10.2953,
+              53.4707
+            ],
+            [
+              10.2925,
+              53.4767
+            ],
+            [
+              10.3058,
+              53.4815
+            ],
+            [
+              10.3242,
+              53.4733
+            ],
+            [
+              10.332,
+              53.4731
+            ],
+            [
+              10.3326,
+              53.4766
+            ],
+            [
+              10.339,
+              53.4761
+            ],
+            [
+              10.3319,
+              53.4643
+            ],
+            [
+              10.3402,
+              53.4639
+            ],
+            [
+              10.332,
+              53.461
+            ],
+            [
+              10.3384,
+              53.46
+            ],
+            [
+              10.3383,
+              53.4577
+            ],
+            [
+              10.3478,
+              53.4531
+            ],
+            [
+              10.3455,
+              53.4509
+            ],
+            [
+              10.3324,
+              53.4533
+            ],
+            [
+              10.326,
+              53.4496
+            ],
+            [
+              10.3116,
+              53.4523
+            ],
+            [
+              10.308,
+              53.4429
+            ],
+            [
+              10.3023,
+              53.443
+            ],
+            [
+              10.2956,
+              53.4487
+            ],
+            [
+              10.299,
+              53.4505
+            ],
+            [
+              10.2899,
+              53.4553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-HH-HH-W240-20261025-004#24",
+      "properties": {
+        "warnId": "mow.DE-HH-HH-W240-20261025-004",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-HH-HH-W240-20261025-004#24",
+        "WarnungID": "mow.DE-HH-HH-W240-20261025-004",
+        "Version": 21,
+        "Titel": "Warnung vor einer Sturmflut - Hamburger Elbegebiet",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-065",
+        "Kategorie": "Elementarereignis",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-10-25T15:13:38+01:00",
+        "Ablauf": null,
+        "MinLongitude": 9.8044,
+        "MaxLongitude": 9.958,
+        "MinLatitude": 53.3339,
+        "MaxLatitude": 53.4574,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.8044,
+              53.4026
+            ],
+            [
+              9.8087,
+              53.4071
+            ],
+            [
+              9.8275,
+              53.4032
+            ],
+            [
+              9.8308,
+              53.4065
+            ],
+            [
+              9.8433,
+              53.4071
+            ],
+            [
+              9.8418,
+              53.4136
+            ],
+            [
+              9.8315,
+              53.415
+            ],
+            [
+              9.8331,
+              53.4181
+            ],
+            [
+              9.845,
+              53.4178
+            ],
+            [
+              9.8624,
+              53.4299
+            ],
+            [
+              9.8646,
+              53.4322
+            ],
+            [
+              9.86,
+              53.4366
+            ],
+            [
+              9.8615,
+              53.4395
+            ],
+            [
+              9.8667,
+              53.4401
+            ],
+            [
+              9.8691,
+              53.4446
+            ],
+            [
+              9.8734,
+              53.4424
+            ],
+            [
+              9.8959,
+              53.4574
+            ],
+            [
+              9.8988,
+              53.4551
+            ],
+            [
+              9.9016,
+              53.4573
+            ],
+            [
+              9.9139,
+              53.4484
+            ],
+            [
+              9.9146,
+              53.4426
+            ],
+            [
+              9.9215,
+              53.4366
+            ],
+            [
+              9.9141,
+              53.43
+            ],
+            [
+              9.9165,
+              53.4249
+            ],
+            [
+              9.9066,
+              53.4158
+            ],
+            [
+              9.9165,
+              53.4141
+            ],
+            [
+              9.9246,
+              53.4196
+            ],
+            [
+              9.9279,
+              53.4192
+            ],
+            [
+              9.9307,
+              53.418
+            ],
+            [
+              9.9293,
+              53.4141
+            ],
+            [
+              9.9316,
+              53.4158
+            ],
+            [
+              9.9431,
+              53.413
+            ],
+            [
+              9.9415,
+              53.3984
+            ],
+            [
+              9.9484,
+              53.3983
+            ],
+            [
+              9.9362,
+              53.3884
+            ],
+            [
+              9.9225,
+              53.3875
+            ],
+            [
+              9.9217,
+              53.384
+            ],
+            [
+              9.9268,
+              53.3832
+            ],
+            [
+              9.9262,
+              53.3811
+            ],
+            [
+              9.9398,
+              53.3821
+            ],
+            [
+              9.9493,
+              53.3792
+            ],
+            [
+              9.9565,
+              53.3631
+            ],
+            [
+              9.9557,
+              53.3543
+            ],
+            [
+              9.9504,
+              53.3525
+            ],
+            [
+              9.9477,
+              53.3477
+            ],
+            [
+              9.958,
+              53.3424
+            ],
+            [
+              9.9439,
+              53.3422
+            ],
+            [
+              9.9433,
+              53.3381
+            ],
+            [
+              9.9305,
+              53.3339
+            ],
+            [
+              9.9279,
+              53.3405
+            ],
+            [
+              9.9116,
+              53.3404
+            ],
+            [
+              9.9134,
+              53.3521
+            ],
+            [
+              9.9102,
+              53.3536
+            ],
+            [
+              9.8983,
+              53.3513
+            ],
+            [
+              9.8955,
+              53.3527
+            ],
+            [
+              9.8931,
+              53.3605
+            ],
+            [
+              9.9025,
+              53.3676
+            ],
+            [
+              9.8825,
+              53.3764
+            ],
+            [
+              9.8743,
+              53.3766
+            ],
+            [
+              9.8713,
+              53.3792
+            ],
+            [
+              9.869,
+              53.3765
+            ],
+            [
+              9.8586,
+              53.3743
+            ],
+            [
+              9.842,
+              53.3738
+            ],
+            [
+              9.84,
+              53.369
+            ],
+            [
+              9.833,
+              53.3702
+            ],
+            [
+              9.8344,
+              53.3738
+            ],
+            [
+              9.8175,
+              53.3761
+            ],
+            [
+              9.8242,
+              53.3936
+            ],
+            [
+              9.814,
+              53.3958
+            ],
+            [
+              9.8044,
+              53.4026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792835100000.a45f5264-0cb6-4aef-933d-d004ec1f8314.MUL#1",
       "properties": {
         "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792835100000.a45f5264-0cb6-4aef-933d-d004ec1f8314.MUL",
@@ -32699,994 +36777,6 @@
     },
     {
       "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792836300000.0a26375b-b5c1-486e-b0ff-15941fa71050.MUL#1",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792836300000.0a26375b-b5c1-486e-b0ff-15941fa71050.MUL",
-        "strokeColor": "#FF8C00",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#FF8C00",
-        "fillOpacity": 0.45,
-        "zIndex": 30,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792836300000.0a26375b-b5c1-486e-b0ff-15941fa71050.MUL#1",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792836300000.0a26375b-b5c1-486e-b0ff-15941fa71050.MUL",
-        "Version": 21,
-        "Titel": "Amtliche WARNUNG vor DAUERREGEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:dauerregen",
-        "Schweregrad": "Moderate",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T12:05:00+02:00",
-        "Ablauf": "2026-10-25T15:00:00+01:00",
-        "MinLongitude": 11.2468,
-        "MaxLongitude": 12.2859,
-        "MinLatitude": 49.7836,
-        "MaxLatitude": 50.5222,
-        "color": "#FF8C00",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.2468,
-              50.4495
-            ],
-            [
-              11.2545,
-              50.4559
-            ],
-            [
-              11.2475,
-              50.4782
-            ],
-            [
-              11.2787,
-              50.4835
-            ],
-            [
-              11.2958,
-              50.4804
-            ],
-            [
-              11.3009,
-              50.4892
-            ],
-            [
-              11.3226,
-              50.4914
-            ],
-            [
-              11.321,
-              50.5089
-            ],
-            [
-              11.3462,
-              50.5111
-            ],
-            [
-              11.342,
-              50.5192
-            ],
-            [
-              11.369,
-              50.5222
-            ],
-            [
-              11.3879,
-              50.5155
-            ],
-            [
-              11.4234,
-              50.5152
-            ],
-            [
-              11.4393,
-              50.501
-            ],
-            [
-              11.4341,
-              50.492
-            ],
-            [
-              11.4191,
-              50.4946
-            ],
-            [
-              11.4231,
-              50.4422
-            ],
-            [
-              11.4404,
-              50.4388
-            ],
-            [
-              11.4527,
-              50.4284
-            ],
-            [
-              11.482,
-              50.4317
-            ],
-            [
-              11.4884,
-              50.4173
-            ],
-            [
-              11.4789,
-              50.4015
-            ],
-            [
-              11.4926,
-              50.3977
-            ],
-            [
-              11.5184,
-              50.3957
-            ],
-            [
-              11.5203,
-              50.3736
-            ],
-            [
-              11.5308,
-              50.3789
-            ],
-            [
-              11.5651,
-              50.3869
-            ],
-            [
-              11.5668,
-              50.3924
-            ],
-            [
-              11.5736,
-              50.4
-            ],
-            [
-              11.5956,
-              50.4021
-            ],
-            [
-              11.6119,
-              50.3914
-            ],
-            [
-              11.6214,
-              50.3869
-            ],
-            [
-              11.6385,
-              50.3894
-            ],
-            [
-              11.6593,
-              50.3924
-            ],
-            [
-              11.6828,
-              50.3935
-            ],
-            [
-              11.6925,
-              50.3934
-            ],
-            [
-              11.6904,
-              50.3723
-            ],
-            [
-              11.7082,
-              50.3587
-            ],
-            [
-              11.7026,
-              50.3552
-            ],
-            [
-              11.7105,
-              50.3469
-            ],
-            [
-              11.7216,
-              50.3453
-            ],
-            [
-              11.7358,
-              50.3529
-            ],
-            [
-              11.7423,
-              50.3492
-            ],
-            [
-              11.754,
-              50.3564
-            ],
-            [
-              11.7671,
-              50.348
-            ],
-            [
-              11.7837,
-              50.3484
-            ],
-            [
-              11.7813,
-              50.3414
-            ],
-            [
-              11.7921,
-              50.3383
-            ],
-            [
-              11.8018,
-              50.3176
-            ],
-            [
-              11.8097,
-              50.3145
-            ],
-            [
-              11.8074,
-              50.3099
-            ],
-            [
-              11.829,
-              50.2989
-            ],
-            [
-              11.8398,
-              50.2934
-            ],
-            [
-              11.839,
-              50.2861
-            ],
-            [
-              11.8637,
-              50.2853
-            ],
-            [
-              11.8696,
-              50.2752
-            ],
-            [
-              11.889,
-              50.2685
-            ],
-            [
-              11.9102,
-              50.2675
-            ],
-            [
-              11.9293,
-              50.2819
-            ],
-            [
-              11.9425,
-              50.272
-            ],
-            [
-              11.9609,
-              50.2716
-            ],
-            [
-              11.9692,
-              50.2657
-            ],
-            [
-              11.9604,
-              50.2607
-            ],
-            [
-              11.9614,
-              50.2532
-            ],
-            [
-              11.9786,
-              50.2503
-            ],
-            [
-              11.971,
-              50.2417
-            ],
-            [
-              11.9874,
-              50.2401
-            ],
-            [
-              11.9919,
-              50.2291
-            ],
-            [
-              12.0058,
-              50.226
-            ],
-            [
-              11.9997,
-              50.2186
-            ],
-            [
-              12.0075,
-              50.2106
-            ],
-            [
-              11.9995,
-              50.2038
-            ],
-            [
-              12.0228,
-              50.1902
-            ],
-            [
-              12.0471,
-              50.1977
-            ],
-            [
-              12.0619,
-              50.1799
-            ],
-            [
-              12.0691,
-              50.1728
-            ],
-            [
-              12.0873,
-              50.1757
-            ],
-            [
-              12.1123,
-              50.2058
-            ],
-            [
-              12.1373,
-              50.2019
-            ],
-            [
-              12.1294,
-              50.2141
-            ],
-            [
-              12.1615,
-              50.2204
-            ],
-            [
-              12.1599,
-              50.2113
-            ],
-            [
-              12.1754,
-              50.2128
-            ],
-            [
-              12.1782,
-              50.2047
-            ],
-            [
-              12.1968,
-              50.1991
-            ],
-            [
-              12.1896,
-              50.1944
-            ],
-            [
-              12.2152,
-              50.1685
-            ],
-            [
-              12.1953,
-              50.1428
-            ],
-            [
-              12.197,
-              50.1275
-            ],
-            [
-              12.1637,
-              50.1167
-            ],
-            [
-              12.1573,
-              50.123
-            ],
-            [
-              12.1363,
-              50.1228
-            ],
-            [
-              12.1135,
-              50.1323
-            ],
-            [
-              12.0831,
-              50.1335
-            ],
-            [
-              12.0916,
-              50.1232
-            ],
-            [
-              12.1203,
-              50.1167
-            ],
-            [
-              12.144,
-              50.0986
-            ],
-            [
-              12.163,
-              50.0989
-            ],
-            [
-              12.1761,
-              50.0915
-            ],
-            [
-              12.1778,
-              50.0804
-            ],
-            [
-              12.1835,
-              50.0746
-            ],
-            [
-              12.218,
-              50.0776
-            ],
-            [
-              12.2355,
-              50.0573
-            ],
-            [
-              12.2258,
-              50.0526
-            ],
-            [
-              12.2303,
-              50.044
-            ],
-            [
-              12.2451,
-              50.0379
-            ],
-            [
-              12.1974,
-              50.033
-            ],
-            [
-              12.2002,
-              50.0099
-            ],
-            [
-              12.192,
-              49.9983
-            ],
-            [
-              12.1987,
-              49.982
-            ],
-            [
-              12.2085,
-              49.9798
-            ],
-            [
-              12.2368,
-              49.9787
-            ],
-            [
-              12.2535,
-              49.9933
-            ],
-            [
-              12.2697,
-              49.9948
-            ],
-            [
-              12.2762,
-              49.9807
-            ],
-            [
-              12.2859,
-              49.979
-            ],
-            [
-              12.2752,
-              49.97
-            ],
-            [
-              12.2582,
-              49.9737
-            ],
-            [
-              12.2533,
-              49.9601
-            ],
-            [
-              12.2721,
-              49.9394
-            ],
-            [
-              12.2728,
-              49.922
-            ],
-            [
-              12.2518,
-              49.9065
-            ],
-            [
-              12.2652,
-              49.9019
-            ],
-            [
-              12.2639,
-              49.8932
-            ],
-            [
-              12.2516,
-              49.8874
-            ],
-            [
-              12.1917,
-              49.8766
-            ],
-            [
-              12.1801,
-              49.8684
-            ],
-            [
-              12.1695,
-              49.8606
-            ],
-            [
-              12.1619,
-              49.8448
-            ],
-            [
-              12.1364,
-              49.8287
-            ],
-            [
-              12.1296,
-              49.8206
-            ],
-            [
-              12.1057,
-              49.822
-            ],
-            [
-              12.0942,
-              49.8143
-            ],
-            [
-              12.0998,
-              49.8015
-            ],
-            [
-              12.0896,
-              49.786
-            ],
-            [
-              12.078,
-              49.7836
-            ],
-            [
-              12.0538,
-              49.7947
-            ],
-            [
-              12.0449,
-              49.7847
-            ],
-            [
-              12.0052,
-              49.7884
-            ],
-            [
-              12.0114,
-              49.7952
-            ],
-            [
-              12.0255,
-              49.7927
-            ],
-            [
-              12.0188,
-              49.807
-            ],
-            [
-              11.9909,
-              49.8239
-            ],
-            [
-              11.9805,
-              49.8185
-            ],
-            [
-              11.9727,
-              49.814
-            ],
-            [
-              11.96,
-              49.8165
-            ],
-            [
-              11.9532,
-              49.8268
-            ],
-            [
-              11.9312,
-              49.8331
-            ],
-            [
-              11.9327,
-              49.8449
-            ],
-            [
-              11.9128,
-              49.853
-            ],
-            [
-              11.9018,
-              49.851
-            ],
-            [
-              11.8998,
-              49.8433
-            ],
-            [
-              11.863,
-              49.8362
-            ],
-            [
-              11.8563,
-              49.8468
-            ],
-            [
-              11.8605,
-              49.8546
-            ],
-            [
-              11.8436,
-              49.8639
-            ],
-            [
-              11.8393,
-              49.8792
-            ],
-            [
-              11.8539,
-              49.8879
-            ],
-            [
-              11.8551,
-              49.8919
-            ],
-            [
-              11.8218,
-              49.9032
-            ],
-            [
-              11.8118,
-              49.8969
-            ],
-            [
-              11.8002,
-              49.8992
-            ],
-            [
-              11.7869,
-              49.8894
-            ],
-            [
-              11.7531,
-              49.9003
-            ],
-            [
-              11.7418,
-              49.9091
-            ],
-            [
-              11.75,
-              49.9226
-            ],
-            [
-              11.7712,
-              49.9309
-            ],
-            [
-              11.7665,
-              49.9456
-            ],
-            [
-              11.7921,
-              49.954
-            ],
-            [
-              11.8017,
-              49.9707
-            ],
-            [
-              11.7809,
-              49.9656
-            ],
-            [
-              11.7635,
-              49.968
-            ],
-            [
-              11.7423,
-              49.99
-            ],
-            [
-              11.7319,
-              50.0221
-            ],
-            [
-              11.7066,
-              50.0195
-            ],
-            [
-              11.6804,
-              50.0284
-            ],
-            [
-              11.6558,
-              50.0196
-            ],
-            [
-              11.6401,
-              50.029
-            ],
-            [
-              11.6003,
-              50.0178
-            ],
-            [
-              11.5992,
-              50.0291
-            ],
-            [
-              11.617,
-              50.0389
-            ],
-            [
-              11.6223,
-              50.0337
-            ],
-            [
-              11.6321,
-              50.0367
-            ],
-            [
-              11.6289,
-              50.0422
-            ],
-            [
-              11.6498,
-              50.042
-            ],
-            [
-              11.6521,
-              50.0544
-            ],
-            [
-              11.6366,
-              50.0586
-            ],
-            [
-              11.6336,
-              50.0687
-            ],
-            [
-              11.6443,
-              50.0725
-            ],
-            [
-              11.6181,
-              50.0854
-            ],
-            [
-              11.6083,
-              50.0873
-            ],
-            [
-              11.6028,
-              50.0993
-            ],
-            [
-              11.5838,
-              50.1108
-            ],
-            [
-              11.5434,
-              50.1182
-            ],
-            [
-              11.534,
-              50.1136
-            ],
-            [
-              11.5245,
-              50.1271
-            ],
-            [
-              11.5138,
-              50.1254
-            ],
-            [
-              11.5092,
-              50.1327
-            ],
-            [
-              11.4946,
-              50.1337
-            ],
-            [
-              11.492,
-              50.1276
-            ],
-            [
-              11.473,
-              50.139
-            ],
-            [
-              11.4758,
-              50.1508
-            ],
-            [
-              11.476,
-              50.1616
-            ],
-            [
-              11.4592,
-              50.1732
-            ],
-            [
-              11.4586,
-              50.1781
-            ],
-            [
-              11.4347,
-              50.183
-            ],
-            [
-              11.4059,
-              50.1753
-            ],
-            [
-              11.3856,
-              50.1834
-            ],
-            [
-              11.3929,
-              50.1905
-            ],
-            [
-              11.373,
-              50.1903
-            ],
-            [
-              11.3624,
-              50.1837
-            ],
-            [
-              11.3609,
-              50.1668
-            ],
-            [
-              11.3466,
-              50.1619
-            ],
-            [
-              11.3431,
-              50.1683
-            ],
-            [
-              11.3283,
-              50.1678
-            ],
-            [
-              11.295,
-              50.205
-            ],
-            [
-              11.2953,
-              50.2246
-            ],
-            [
-              11.2707,
-              50.2343
-            ],
-            [
-              11.2647,
-              50.2433
-            ],
-            [
-              11.2791,
-              50.2492
-            ],
-            [
-              11.2661,
-              50.2578
-            ],
-            [
-              11.2666,
-              50.2683
-            ],
-            [
-              11.2615,
-              50.2748
-            ],
-            [
-              11.2531,
-              50.2994
-            ],
-            [
-              11.2702,
-              50.3068
-            ],
-            [
-              11.257,
-              50.3227
-            ],
-            [
-              11.262,
-              50.3379
-            ],
-            [
-              11.2767,
-              50.3364
-            ],
-            [
-              11.2647,
-              50.3539
-            ],
-            [
-              11.2837,
-              50.3609
-            ],
-            [
-              11.2772,
-              50.3804
-            ],
-            [
-              11.2647,
-              50.3876
-            ],
-            [
-              11.2709,
-              50.395
-            ],
-            [
-              11.2575,
-              50.4
-            ],
-            [
-              11.2685,
-              50.4196
-            ],
-            [
-              11.263,
-              50.4436
-            ],
-            [
-              11.2468,
-              50.4495
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792836300000.bbb7c277-0527-4ffe-9215-9f80f7148563.MUL#1",
       "properties": {
         "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792836300000.bbb7c277-0527-4ffe-9215-9f80f7148563.MUL",
@@ -34712,214 +37802,6 @@
             [
               12.6773,
               49.0323
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792853700000.51275bce-ca26-489f-b3b7-8246c688ff13.MUL#1",
-      "properties": {
-        "warnId": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792853700000.51275bce-ca26-489f-b3b7-8246c688ff13.MUL",
-        "strokeColor": "#D13438",
-        "strokeOpacity": 1.0,
-        "strokeWeight": 1,
-        "fillColor": "#D13438",
-        "fillOpacity": 0.5,
-        "zIndex": 40,
-        "FeatureID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792853700000.51275bce-ca26-489f-b3b7-8246c688ff13.MUL#1",
-        "WarnungID": "dwdmap.2.49.0.0.276.0.DWD.PVW.1792853700000.51275bce-ca26-489f-b3b7-8246c688ff13.MUL",
-        "Version": 21,
-        "Titel": "Amtliche UNWETTERWARNUNG vor ORKANBÖEN",
-        "Quelle": "DWD",
-        "QuellEndpunkt": "dwd",
-        "Eventcode": null,
-        "Kategorie": "Elementarereignis",
-        "Klassifizierung": "Titel:orkan",
-        "Schweregrad": "Severe",
-        "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-10-24T16:55:00+02:00",
-        "Ablauf": "2026-10-25T16:00:00+01:00",
-        "MinLongitude": 10.5738,
-        "MaxLongitude": 10.8997,
-        "MinLatitude": 51.7525,
-        "MaxLatitude": 51.8872,
-        "color": "#D13438",
-        "strokeWidth": 2
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.5738,
-              51.8108
-            ],
-            [
-              10.5873,
-              51.8352
-            ],
-            [
-              10.6086,
-              51.822
-            ],
-            [
-              10.6342,
-              51.8194
-            ],
-            [
-              10.6344,
-              51.8011
-            ],
-            [
-              10.6445,
-              51.7895
-            ],
-            [
-              10.648,
-              51.8035
-            ],
-            [
-              10.6625,
-              51.8133
-            ],
-            [
-              10.6564,
-              51.8243
-            ],
-            [
-              10.6771,
-              51.8226
-            ],
-            [
-              10.7169,
-              51.8439
-            ],
-            [
-              10.7442,
-              51.8358
-            ],
-            [
-              10.7579,
-              51.8498
-            ],
-            [
-              10.7532,
-              51.8715
-            ],
-            [
-              10.7589,
-              51.8665
-            ],
-            [
-              10.7742,
-              51.8787
-            ],
-            [
-              10.8139,
-              51.8872
-            ],
-            [
-              10.82,
-              51.8781
-            ],
-            [
-              10.8634,
-              51.8833
-            ],
-            [
-              10.8649,
-              51.8691
-            ],
-            [
-              10.8846,
-              51.8652
-            ],
-            [
-              10.8894,
-              51.8573
-            ],
-            [
-              10.8924,
-              51.8343
-            ],
-            [
-              10.8847,
-              51.8298
-            ],
-            [
-              10.8997,
-              51.8159
-            ],
-            [
-              10.8629,
-              51.8107
-            ],
-            [
-              10.8434,
-              51.7916
-            ],
-            [
-              10.8253,
-              51.7895
-            ],
-            [
-              10.8062,
-              51.7959
-            ],
-            [
-              10.7833,
-              51.7844
-            ],
-            [
-              10.7462,
-              51.7798
-            ],
-            [
-              10.7113,
-              51.765
-            ],
-            [
-              10.7054,
-              51.7713
-            ],
-            [
-              10.6864,
-              51.7731
-            ],
-            [
-              10.7023,
-              51.7525
-            ],
-            [
-              10.6785,
-              51.7581
-            ],
-            [
-              10.6644,
-              51.7538
-            ],
-            [
-              10.626,
-              51.7582
-            ],
-            [
-              10.5978,
-              51.7656
-            ],
-            [
-              10.5797,
-              51.7822
-            ],
-            [
-              10.586,
-              51.7876
-            ],
-            [
-              10.5738,
-              51.8108
             ]
           ]
         ]

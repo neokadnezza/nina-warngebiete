@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-26T10:23:45Z",
-  "started_at_utc": "2026-10-26T10:23:41Z",
+  "generated_at_utc": "2026-10-26T13:25:16Z",
+  "started_at_utc": "2026-10-26T13:23:48Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -9,23 +9,23 @@
     "lhp",
     "police"
   ],
-  "source_counts": {
-    "MoWaS": 12,
-    "DWD": 3,
-    "KATWARN": 0,
-    "BIWAPP": 0,
-    "Hochwasser": 3,
-    "Polizei": 0
+  "source_counts": {},
+  "source_errors": {
+    "MoWaS": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/mowas/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
+    "DWD": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/dwd/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
+    "KATWARN": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/katwarn/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
+    "BIWAPP": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/biwapp/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
+    "Hochwasser": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/lhp/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
+    "Polizei": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/police/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))"
   },
-  "source_errors": {},
-  "overview_total": 18,
-  "active_total": 15,
-  "relevant_total": 9,
-  "unclassified_total": 3,
+  "overview_total": 0,
+  "active_total": 0,
+  "relevant_total": 0,
+  "unclassified_total": 0,
   "geometry_requests_failed": 0,
   "warnings_without_geometry": 0,
-  "feature_count": 159,
-  "sha256": "3fc45e4897f59b684877bdee3cc29b25cbf97573fd518f160a5e78413fd059eb",
+  "feature_count": 0,
+  "sha256": "ad37fe6278e0c7caf3b77c1c5068a56e18a6c87b78ed5a840ee22a0f961ea7a8",
   "uploaded_to_github": true,
   "github_changed": true
 }

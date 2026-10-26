@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-26T19:26:01Z",
-  "started_at_utc": "2026-10-26T19:24:35Z",
+  "generated_at_utc": "2026-10-26T22:24:49Z",
+  "started_at_utc": "2026-10-26T22:24:47Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -9,23 +9,23 @@
     "lhp",
     "police"
   ],
-  "source_counts": {},
-  "source_errors": {
-    "MoWaS": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/mowas/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
-    "DWD": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/dwd/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
-    "KATWARN": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/katwarn/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
-    "BIWAPP": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/biwapp/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
-    "Hochwasser": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/lhp/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))",
-    "Polizei": "SSLError: HTTPSConnectionPool(host='warnung.bund.de', port=443): Max retries exceeded with url: /api31/police/mapData.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1029)')))"
+  "source_counts": {
+    "MoWaS": 3,
+    "DWD": 1,
+    "KATWARN": 0,
+    "BIWAPP": 0,
+    "Hochwasser": 2,
+    "Polizei": 0
   },
-  "overview_total": 0,
-  "active_total": 0,
-  "relevant_total": 0,
-  "unclassified_total": 0,
+  "source_errors": {},
+  "overview_total": 6,
+  "active_total": 5,
+  "relevant_total": 2,
+  "unclassified_total": 1,
   "geometry_requests_failed": 0,
   "warnings_without_geometry": 0,
-  "feature_count": 0,
-  "sha256": "ad37fe6278e0c7caf3b77c1c5068a56e18a6c87b78ed5a840ee22a0f961ea7a8",
+  "feature_count": 3,
+  "sha256": "484cbafae33dbcbb98d9d6b0ddbed09fb3e77656e6bfffa060fc910a9a3f56b2",
   "uploaded_to_github": true,
-  "github_changed": false
+  "github_changed": true
 }

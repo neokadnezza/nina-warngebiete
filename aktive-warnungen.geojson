@@ -3,6 +3,350 @@
   "features": [
     {
       "type": "Feature",
+      "id": "mow.DE-NW-BM-SE042-20261103-42-000#1",
+      "properties": {
+        "warnId": "mow.DE-NW-BM-SE042-20261103-42-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-NW-BM-SE042-20261103-42-000#1",
+        "WarnungID": "mow.DE-NW-BM-SE042-20261103-42-000",
+        "Version": 21,
+        "Titel": "Kampfmittelfund - Rhein-Erft-Kreis / Stadt Elsdorf",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-079",
+        "Kategorie": "Warnung",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-11-03T12:14:15+01:00",
+        "Ablauf": null,
+        "MinLongitude": 6.5779,
+        "MaxLongitude": 6.5894,
+        "MinLatitude": 50.938,
+        "MaxLatitude": 50.9452,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5779,
+              50.9418
+            ],
+            [
+              6.5781,
+              50.9425
+            ],
+            [
+              6.5785,
+              50.9432
+            ],
+            [
+              6.5791,
+              50.9438
+            ],
+            [
+              6.5799,
+              50.9443
+            ],
+            [
+              6.5808,
+              50.9448
+            ],
+            [
+              6.5818,
+              50.9451
+            ],
+            [
+              6.5829,
+              50.9452
+            ],
+            [
+              6.5841,
+              50.9452
+            ],
+            [
+              6.5852,
+              50.9451
+            ],
+            [
+              6.5862,
+              50.9449
+            ],
+            [
+              6.5872,
+              50.9445
+            ],
+            [
+              6.588,
+              50.944
+            ],
+            [
+              6.5887,
+              50.9434
+            ],
+            [
+              6.5891,
+              50.9428
+            ],
+            [
+              6.5894,
+              50.9421
+            ],
+            [
+              6.5894,
+              50.9414
+            ],
+            [
+              6.5893,
+              50.9407
+            ],
+            [
+              6.5888,
+              50.94
+            ],
+            [
+              6.5883,
+              50.9394
+            ],
+            [
+              6.5875,
+              50.9389
+            ],
+            [
+              6.5866,
+              50.9385
+            ],
+            [
+              6.5855,
+              50.9382
+            ],
+            [
+              6.5844,
+              50.938
+            ],
+            [
+              6.5833,
+              50.938
+            ],
+            [
+              6.5822,
+              50.9381
+            ],
+            [
+              6.5811,
+              50.9384
+            ],
+            [
+              6.5802,
+              50.9387
+            ],
+            [
+              6.5794,
+              50.9392
+            ],
+            [
+              6.5787,
+              50.9398
+            ],
+            [
+              6.5782,
+              50.9404
+            ],
+            [
+              6.578,
+              50.9411
+            ],
+            [
+              6.5779,
+              50.9418
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-BY-N-SE137-20261103-166-000#1",
+      "properties": {
+        "warnId": "mow.DE-BY-N-SE137-20261103-166-000",
+        "strokeColor": "#D13438",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#D13438",
+        "fillOpacity": 0.5,
+        "zIndex": 40,
+        "FeatureID": "mow.DE-BY-N-SE137-20261103-166-000#1",
+        "WarnungID": "mow.DE-BY-N-SE137-20261103-166-000",
+        "Version": 21,
+        "Titel": "Blindgängerfund - Waldgebiet nördlich der Trierer Straße",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-079",
+        "Kategorie": "Warnung",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Severe",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-11-03T14:09:23+01:00",
+        "Ablauf": null,
+        "MinLongitude": 11.0917,
+        "MaxLongitude": 11.1056,
+        "MinLatitude": 49.4037,
+        "MaxLatitude": 49.4128,
+        "color": "#D13438",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0917,
+              49.408
+            ],
+            [
+              11.0917,
+              49.4089
+            ],
+            [
+              11.092,
+              49.4097
+            ],
+            [
+              11.0926,
+              49.4105
+            ],
+            [
+              11.0934,
+              49.4113
+            ],
+            [
+              11.0944,
+              49.4119
+            ],
+            [
+              11.0955,
+              49.4123
+            ],
+            [
+              11.0968,
+              49.4127
+            ],
+            [
+              11.0981,
+              49.4128
+            ],
+            [
+              11.0995,
+              49.4128
+            ],
+            [
+              11.1008,
+              49.4126
+            ],
+            [
+              11.1021,
+              49.4122
+            ],
+            [
+              11.1032,
+              49.4117
+            ],
+            [
+              11.1041,
+              49.4111
+            ],
+            [
+              11.1048,
+              49.4103
+            ],
+            [
+              11.1053,
+              49.4095
+            ],
+            [
+              11.1056,
+              49.4086
+            ],
+            [
+              11.1055,
+              49.4077
+            ],
+            [
+              11.1052,
+              49.4068
+            ],
+            [
+              11.1047,
+              49.406
+            ],
+            [
+              11.1039,
+              49.4053
+            ],
+            [
+              11.1029,
+              49.4047
+            ],
+            [
+              11.1017,
+              49.4042
+            ],
+            [
+              11.1005,
+              49.4039
+            ],
+            [
+              11.0991,
+              49.4037
+            ],
+            [
+              11.0977,
+              49.4038
+            ],
+            [
+              11.0964,
+              49.404
+            ],
+            [
+              11.0952,
+              49.4043
+            ],
+            [
+              11.0941,
+              49.4048
+            ],
+            [
+              11.0931,
+              49.4055
+            ],
+            [
+              11.0924,
+              49.4063
+            ],
+            [
+              11.0919,
+              49.4071
+            ],
+            [
+              11.0917,
+              49.408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "lhp.LHP.ST.cate476896af9b6f138b2e5a53d2f4bdfc6#1",
       "properties": {
         "warnId": "lhp.LHP.ST.cate476896af9b6f138b2e5a53d2f4bdfc6",

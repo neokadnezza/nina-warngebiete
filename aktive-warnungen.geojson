@@ -3,6 +3,122 @@
   "features": [
     {
       "type": "Feature",
+      "id": "mow.DE-NW-MS-SE043-20261106-43-001#1",
+      "properties": {
+        "warnId": "mow.DE-NW-MS-SE043-20261106-43-001",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-NW-MS-SE043-20261106-43-001#1",
+        "WarnungID": "mow.DE-NW-MS-SE043-20261106-43-001",
+        "Version": 21,
+        "Titel": "Kampfmittelfund MS - Münster - Lippstädter Strasse",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-079",
+        "Kategorie": "Warnung",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Update",
+        "Beginn": "2026-11-06T10:54:49+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.6334,
+        "MaxLongitude": 7.6397,
+        "MinLatitude": 51.9456,
+        "MaxLatitude": 51.9496,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.6334,
+              51.947
+            ],
+            [
+              7.6337,
+              51.9478
+            ],
+            [
+              7.6343,
+              51.9493
+            ],
+            [
+              7.6351,
+              51.9492
+            ],
+            [
+              7.6357,
+              51.9492
+            ],
+            [
+              7.6358,
+              51.9493
+            ],
+            [
+              7.636,
+              51.9494
+            ],
+            [
+              7.6362,
+              51.9495
+            ],
+            [
+              7.6365,
+              51.9495
+            ],
+            [
+              7.6374,
+              51.9496
+            ],
+            [
+              7.6376,
+              51.9488
+            ],
+            [
+              7.639,
+              51.949
+            ],
+            [
+              7.6397,
+              51.9487
+            ],
+            [
+              7.6388,
+              51.9475
+            ],
+            [
+              7.6385,
+              51.9459
+            ],
+            [
+              7.6368,
+              51.9456
+            ],
+            [
+              7.6363,
+              51.947
+            ],
+            [
+              7.6356,
+              51.947
+            ],
+            [
+              7.6334,
+              51.947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "lhp.LHP.ST.cate476896af9b6f138b2e5a53d2f4bdfc6#1",
       "properties": {
         "warnId": "lhp.LHP.ST.cate476896af9b6f138b2e5a53d2f4bdfc6",

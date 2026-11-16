@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-16T20:04:47Z",
-  "started_at_utc": "2026-11-16T20:04:43Z",
+  "generated_at_utc": "2026-11-16T23:05:08Z",
+  "started_at_utc": "2026-11-16T23:05:05Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -27,5 +27,5 @@
   "feature_count": 19,
   "sha256": "4f27f6bda7fe28af54d4de9747a9b38ac34e96254a0c07e4deec51756f97dcad",
   "uploaded_to_github": true,
-  "github_changed": true
+  "github_changed": false
 }

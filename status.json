@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-22T14:15:26Z",
-  "started_at_utc": "2026-11-22T14:15:25Z",
+  "generated_at_utc": "2026-11-22T17:15:48Z",
+  "started_at_utc": "2026-11-22T17:15:47Z",
   "sources_requested": [
     "mowas",
     "dwd",
@@ -14,11 +14,11 @@
     "DWD": 1,
     "KATWARN": 0,
     "BIWAPP": 0,
-    "Hochwasser": 6,
+    "Hochwasser": 5,
     "Polizei": 0
   },
   "source_errors": {},
-  "overview_total": 13,
+  "overview_total": 12,
   "active_total": 12,
   "relevant_total": 5,
   "unclassified_total": 1,

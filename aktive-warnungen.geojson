@@ -1,4 +1,349 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mow.DE-NW-DO-SE067-20261125-67-000#1",
+      "properties": {
+        "warnId": "mow.DE-NW-DO-SE067-20261125-67-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-NW-DO-SE067-20261125-67-000#1",
+        "WarnungID": "mow.DE-NW-DO-SE067-20261125-67-000",
+        "Version": 22,
+        "Titel": "Kampfmittelfund - Dortmund; Blindgänger-Entschärfung im Bereich Westfalendamm/Max-Eyth-Straße",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-079",
+        "Kategorie": "Warnung",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-11-25T18:38:04+01:00",
+        "Ablauf": null,
+        "MinLongitude": 7.5109,
+        "MaxLongitude": 7.5182,
+        "MinLatitude": 51.5016,
+        "MaxLatitude": 51.5062,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5109,
+              51.5036
+            ],
+            [
+              7.5109,
+              51.5041
+            ],
+            [
+              7.511,
+              51.5045
+            ],
+            [
+              7.5113,
+              51.5049
+            ],
+            [
+              7.5117,
+              51.5053
+            ],
+            [
+              7.5121,
+              51.5056
+            ],
+            [
+              7.5127,
+              51.5059
+            ],
+            [
+              7.5134,
+              51.5061
+            ],
+            [
+              7.5141,
+              51.5062
+            ],
+            [
+              7.5148,
+              51.5062
+            ],
+            [
+              7.5155,
+              51.5061
+            ],
+            [
+              7.5162,
+              51.5059
+            ],
+            [
+              7.5168,
+              51.5057
+            ],
+            [
+              7.5173,
+              51.5054
+            ],
+            [
+              7.5177,
+              51.505
+            ],
+            [
+              7.518,
+              51.5046
+            ],
+            [
+              7.5182,
+              51.5042
+            ],
+            [
+              7.5182,
+              51.5037
+            ],
+            [
+              7.5181,
+              51.5033
+            ],
+            [
+              7.5178,
+              51.5029
+            ],
+            [
+              7.5174,
+              51.5025
+            ],
+            [
+              7.5169,
+              51.5022
+            ],
+            [
+              7.5163,
+              51.5019
+            ],
+            [
+              7.5157,
+              51.5017
+            ],
+            [
+              7.515,
+              51.5016
+            ],
+            [
+              7.5142,
+              51.5016
+            ],
+            [
+              7.5135,
+              51.5017
+            ],
+            [
+              7.5129,
+              51.5019
+            ],
+            [
+              7.5123,
+              51.5021
+            ],
+            [
+              7.5117,
+              51.5024
+            ],
+            [
+              7.5113,
+              51.5028
+            ],
+            [
+              7.511,
+              51.5032
+            ],
+            [
+              7.5109,
+              51.5036
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-NW-BM-SE042-20261125-42-000#1",
+      "properties": {
+        "warnId": "mow.DE-NW-BM-SE042-20261125-42-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-NW-BM-SE042-20261125-42-000#1",
+        "WarnungID": "mow.DE-NW-BM-SE042-20261125-42-000",
+        "Version": 22,
+        "Titel": "Kampfmittelfund - Rhein-Erft-Kreis",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-079",
+        "Kategorie": "Warnung",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-11-25T21:16:39+01:00",
+        "Ablauf": null,
+        "MinLongitude": 6.6417,
+        "MaxLongitude": 6.6504,
+        "MinLatitude": 50.9505,
+        "MaxLatitude": 50.956,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6417,
+              50.9534
+            ],
+            [
+              6.6419,
+              50.954
+            ],
+            [
+              6.6422,
+              50.9545
+            ],
+            [
+              6.6426,
+              50.9549
+            ],
+            [
+              6.6432,
+              50.9553
+            ],
+            [
+              6.6439,
+              50.9556
+            ],
+            [
+              6.6446,
+              50.9558
+            ],
+            [
+              6.6455,
+              50.956
+            ],
+            [
+              6.6463,
+              50.956
+            ],
+            [
+              6.6472,
+              50.9559
+            ],
+            [
+              6.648,
+              50.9557
+            ],
+            [
+              6.6487,
+              50.9554
+            ],
+            [
+              6.6493,
+              50.9551
+            ],
+            [
+              6.6498,
+              50.9546
+            ],
+            [
+              6.6501,
+              50.9541
+            ],
+            [
+              6.6503,
+              50.9536
+            ],
+            [
+              6.6504,
+              50.9531
+            ],
+            [
+              6.6502,
+              50.9525
+            ],
+            [
+              6.6499,
+              50.952
+            ],
+            [
+              6.6495,
+              50.9516
+            ],
+            [
+              6.6489,
+              50.9512
+            ],
+            [
+              6.6482,
+              50.9509
+            ],
+            [
+              6.6474,
+              50.9507
+            ],
+            [
+              6.6466,
+              50.9505
+            ],
+            [
+              6.6458,
+              50.9505
+            ],
+            [
+              6.6449,
+              50.9506
+            ],
+            [
+              6.6441,
+              50.9508
+            ],
+            [
+              6.6434,
+              50.9511
+            ],
+            [
+              6.6428,
+              50.9515
+            ],
+            [
+              6.6423,
+              50.9519
+            ],
+            [
+              6.6419,
+              50.9524
+            ],
+            [
+              6.6418,
+              50.9529
+            ],
+            [
+              6.6417,
+              50.9534
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -3,17 +3,17 @@
   "features": [
     {
       "type": "Feature",
-      "id": "mow.DE-NW-BM-SE042-20261125-42-000#1",
+      "id": "mow.DE-NW-BM-SE042-20261126-42-006#1",
       "properties": {
-        "warnId": "mow.DE-NW-BM-SE042-20261125-42-000",
+        "warnId": "mow.DE-NW-BM-SE042-20261126-42-006",
         "strokeColor": "#F2C811",
         "strokeOpacity": 1.0,
         "strokeWeight": 1,
         "fillColor": "#F2C811",
         "fillOpacity": 0.4,
         "zIndex": 20,
-        "FeatureID": "mow.DE-NW-BM-SE042-20261125-42-000#1",
-        "WarnungID": "mow.DE-NW-BM-SE042-20261125-42-000",
+        "FeatureID": "mow.DE-NW-BM-SE042-20261126-42-006#1",
+        "WarnungID": "mow.DE-NW-BM-SE042-20261126-42-006",
         "Version": 22,
         "Titel": "Kampfmittelfund - Rhein-Erft-Kreis",
         "Quelle": "MoWaS",
@@ -23,8 +23,8 @@
         "Klassifizierung": "Eventcode",
         "Schweregrad": "Minor",
         "Dringlichkeit": "Immediate",
-        "Meldungstyp": "Alert",
-        "Beginn": "2026-11-25T21:16:39+01:00",
+        "Meldungstyp": "Update",
+        "Beginn": "2026-11-26T11:11:44+01:00",
         "Ablauf": null,
         "MinLongitude": 6.6417,
         "MaxLongitude": 6.6504,
@@ -62,7 +62,7 @@
               50.9556
             ],
             [
-              6.6446,
+              6.6447,
               50.9558
             ],
             [
@@ -94,7 +94,7 @@
               50.9546
             ],
             [
-              6.6501,
+              6.6502,
               50.9541
             ],
             [
@@ -158,7 +158,7 @@
               50.9519
             ],
             [
-              6.6419,
+              6.642,
               50.9524
             ],
             [
@@ -168,6 +168,94 @@
             [
               6.6417,
               50.9534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "mow.DE-NW-SI-SE066-20261126-66-000#1",
+      "properties": {
+        "warnId": "mow.DE-NW-SI-SE066-20261126-66-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-NW-SI-SE066-20261126-66-000#1",
+        "WarnungID": "mow.DE-NW-SI-SE066-20261126-66-000",
+        "Version": 22,
+        "Titel": "Ausfall der Gasversorgung - Hilchenbach",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-003",
+        "Kategorie": "Kritische Infrastruktur",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-11-26T11:43:11+01:00",
+        "Ablauf": null,
+        "MinLongitude": 8.1037,
+        "MaxLongitude": 8.1116,
+        "MinLatitude": 50.9883,
+        "MaxLatitude": 50.9964,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.1037,
+              50.989
+            ],
+            [
+              8.1047,
+              50.9904
+            ],
+            [
+              8.1075,
+              50.9931
+            ],
+            [
+              8.107,
+              50.9933
+            ],
+            [
+              8.1097,
+              50.9953
+            ],
+            [
+              8.1094,
+              50.9963
+            ],
+            [
+              8.1097,
+              50.9964
+            ],
+            [
+              8.1105,
+              50.9931
+            ],
+            [
+              8.1116,
+              50.9899
+            ],
+            [
+              8.1107,
+              50.9888
+            ],
+            [
+              8.1083,
+              50.9883
+            ],
+            [
+              8.1037,
+              50.989
             ]
           ]
         ]

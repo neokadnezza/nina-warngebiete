@@ -1,4 +1,173 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mow.DE-BW-HN-W282-20261127-000#1",
+      "properties": {
+        "warnId": "mow.DE-BW-HN-W282-20261127-000",
+        "strokeColor": "#F2C811",
+        "strokeOpacity": 1.0,
+        "strokeWeight": 1,
+        "fillColor": "#F2C811",
+        "fillOpacity": 0.4,
+        "zIndex": 20,
+        "FeatureID": "mow.DE-BW-HN-W282-20261127-000#1",
+        "WarnungID": "mow.DE-BW-HN-W282-20261127-000",
+        "Version": 22,
+        "Titel": "+Vorabinformation+ Entschärfung von Weltkriegsmunition [Stadt Heilbronn] - Stadt Heilbronn",
+        "Quelle": "MoWaS",
+        "QuellEndpunkt": "mowas",
+        "Eventcode": "BBK-EVC-079",
+        "Kategorie": "Warnung",
+        "Klassifizierung": "Eventcode",
+        "Schweregrad": "Minor",
+        "Dringlichkeit": "Immediate",
+        "Meldungstyp": "Alert",
+        "Beginn": "2026-11-27T19:05:18+01:00",
+        "Ablauf": null,
+        "MinLongitude": 9.0981,
+        "MaxLongitude": 9.2052,
+        "MinLatitude": 49.1251,
+        "MaxLatitude": 49.2045,
+        "color": "#F2C811",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.0981,
+              49.1863
+            ],
+            [
+              9.1067,
+              49.1922
+            ],
+            [
+              9.1248,
+              49.1981
+            ],
+            [
+              9.1462,
+              49.2045
+            ],
+            [
+              9.1612,
+              49.2006
+            ],
+            [
+              9.1619,
+              49.1893
+            ],
+            [
+              9.1721,
+              49.1887
+            ],
+            [
+              9.1879,
+              49.1878
+            ],
+            [
+              9.2019,
+              49.1851
+            ],
+            [
+              9.2014,
+              49.1806
+            ],
+            [
+              9.2027,
+              49.1757
+            ],
+            [
+              9.2044,
+              49.169
+            ],
+            [
+              9.2052,
+              49.1629
+            ],
+            [
+              9.2034,
+              49.1582
+            ],
+            [
+              9.2016,
+              49.1516
+            ],
+            [
+              9.1988,
+              49.1374
+            ],
+            [
+              9.1967,
+              49.1279
+            ],
+            [
+              9.1942,
+              49.1251
+            ],
+            [
+              9.1759,
+              49.1261
+            ],
+            [
+              9.1497,
+              49.1309
+            ],
+            [
+              9.154,
+              49.1389
+            ],
+            [
+              9.1569,
+              49.1406
+            ],
+            [
+              9.1624,
+              49.1439
+            ],
+            [
+              9.1619,
+              49.1508
+            ],
+            [
+              9.1481,
+              49.1529
+            ],
+            [
+              9.1466,
+              49.1565
+            ],
+            [
+              9.1421,
+              49.1561
+            ],
+            [
+              9.1355,
+              49.1589
+            ],
+            [
+              9.1345,
+              49.1646
+            ],
+            [
+              9.1303,
+              49.1716
+            ],
+            [
+              9.0996,
+              49.1744
+            ],
+            [
+              9.0981,
+              49.1863
+            ]
+          ]
+        ]
+      }
+    }
+  ]
 }
